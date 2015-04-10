@@ -65,7 +65,7 @@ Hyperletter helps you distribute your system, like a mix of WCF and ZeroMQ.
 
 ## Jil
 
-<sup>[GitHub][-gh]</sup> <sup>[NuGet][-nuget]</sup>
+<sup>[GitHub][jil-gh]</sup> <sup>[NuGet][jil-nuget]</sup>
 
 Fast .NET JSON (De)Serializer, Built On Sigil.
 
@@ -93,7 +93,7 @@ Advanced .NET and Silverlight Logging.
 
 ## [Nancy][nancy]
 
-<sup>[GitHub][-gh]</sup> <sup>[NuGet][-nuget]</sup>
+<sup>[GitHub][nancy-gh]</sup> <sup>[NuGet][nancy-nuget]</sup>
 
 Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono.
 
