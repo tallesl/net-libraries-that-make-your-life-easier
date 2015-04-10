@@ -12,6 +12,7 @@
 * [Polly](#polly)
 * [Postal](#postal)
 * [RestSharp](#restsharp)
+* [Serilog](#serilog)
 * [Simple.Data](#simpledata)
 * [Topshelf](#topshelf)
 
@@ -129,6 +130,16 @@ Simple REST and HTTP API Client for .NET.
 [restsharp]:       http://restsharp.org
 [restsharp-gh]:    https://github.com/restsharp/RestSharp
 [restsharp-nuget]: http://nuget.org/packages/RestSharp
+
+## [Serilog][serilog]
+
+<sup>[GitHub][serilog-gh]</sup> <sup>[NuGet][serilog-nuget]</sup>
+
+Simple .NET logging with fully-structured events.
+
+[serilog]:       http://serilog.net
+[serilog-gh]:    https://github.com/serilog/serilog
+[serilog-nuget]: https://nuget.org/packages/Common.Logging.Serilog
 
 ## Simple.Data
 
