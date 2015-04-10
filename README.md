@@ -12,6 +12,7 @@
 * [Jil](#jil)
 * [libsodium](#libsodium)
 * [LINQ to DB](#linqtodb)
+* [Logary ](#logary)
 * [NLog](#nlog)
 * [Nancy](#nancy)
 * [Polly](#polly)
@@ -134,6 +135,16 @@ Linq to database provider.
 
 [linqtodb-gh]:    https://github.com/linq2db/linq2db
 [linqtodb-nuget]: http://nuget.org/packages/linq2db
+
+## [Logary][logary]
+
+<sup>[GitHub][logary-gh]</sup> <sup>[NuGet][logary-nuget]</sup>
+
+Logary is the best logging framework for .Net. It's a high performance, multi-target logging, metric and health-check library for mono and .Net. Targets include: textwriter, console, debugger, nlog, zipkin, nimrod, riemann, logstash, sqlite, sql server, graphite, loggr, elmah.io, logentries. Adapters for: suave, topshelf.
+
+[logary]:       http://logary.github.io
+[logary-gh]:    https://github.com/logary/logary
+[logary-nuget]: http://nuget.org/packages/Logary
 
 ## [NLog][nlog]
 
