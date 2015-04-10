@@ -21,6 +21,7 @@
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [Simple.Data](#simpledata)
+* [Suave](#suave)
 * [T4MVC](#t4mvc)
 * [Topshelf](#topshelf)
 
@@ -232,6 +233,16 @@ T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers 
 
 [t4mvc-gh]:    https://github.com/T4MVC/T4MVC
 [t4mvc-nuget]: http://nuget.org/packages/T4MVC
+
+## [Suave][suave]
+
+<sup>[GitHub][suave-gh]</sup> <sup>[NuGet][suave-nuget]</sup>
+
+Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
+
+[suave]:       http://suave.io
+[suave-gh]:    https://github.com/SuaveIO/suave
+[suave-nuget]: http://nuget.org/packages/Suave
 
 ## [Topshelf][topshelf]
 
