@@ -1,6 +1,7 @@
 # Open Source .NET libraries that make your life easier
 
 * [AutoMapper](#automapper)
+* [CsQuery](#csquery)
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamicdata)
 * [Formo](#formo)
@@ -31,6 +32,15 @@ A convention-based object-object mapper in .NET.
 [automapper]:       http://automapper.org
 [automapper-gh]:    https://github.com/AutoMapper/AutoMapper
 [automapper-nuget]: https://nuget.org/packages/AutoMapper
+
+## CsQuery
+
+<sup>[GitHub][csquery-gh]</sup> <sup>[NuGet][csquery-nuget]</sup>
+
+CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
+
+[csquery-gh]:    https://github.com/jamietre/CsQuery
+[csquery-nuget]: http://nuget.org/packages/CsQuery
 
 ## Dapper
 
