@@ -6,6 +6,7 @@
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
 * [Hyperletter](#hyperletter)
+* [Insight.Database](#insightdatabase)
 * [Jil](#jil)
 * [libsodium](#libsodium)
 * [NLog](#nlog)
@@ -83,6 +84,15 @@ Fast .NET JSON (De)Serializer, Built On Sigil.
 
 [jil-gh]:    https://github.com/kevin-montrose/Jil
 [jil-nuget]: https://nuget.org/packages/Jil
+
+## Insight.Database
+
+<sup>[GitHub][insightdatabase-gh]</sup> <sup>[NuGet][insightdatabase-nuget]</sup>
+
+Fast, lightweight .NET micro-ORM.
+
+[insightdatabase-gh]:    https://github.com/jonwagner/Insight.Database
+[insightdatabase-nuget]: http://nuget.org/packages/Insight.Database
 
 ## libsodium
 
