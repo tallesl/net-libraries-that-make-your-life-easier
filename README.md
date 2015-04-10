@@ -2,6 +2,7 @@
 
 * [AutoMapper](#automapper)
 * [Dapper](#dapper)
+* [Dynamic Data](#dynamicdata)
 * [Formo](#formo)
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
@@ -39,6 +40,16 @@ A simple object mapper for .Net.
 
 [dapper-gh]:    https://github.com/StackExchange/dapper-dot-net
 [dapper-nuget]: http://nuget.org/packages/Dapper
+
+## [Dynamic Data][dynamicdata]
+
+<sup>[GitHub][dynamicdata-gh]</sup> <sup>[NuGet][dynamicdata-nuget]</sup>
+
+Reactive extensions for collections.
+
+[dynamicdata]:       http://dynamic-data.org
+[dynamicdata-gh]:    https://github.com/RolandPheasant/DynamicData
+[dynamicdata-nuget]: http://nuget.org/packages/DynamicData
 
 ## [Formo][formo]
 
