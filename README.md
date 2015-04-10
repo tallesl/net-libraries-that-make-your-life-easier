@@ -9,6 +9,7 @@
 * [Insight.Database](#insightdatabase)
 * [Jil](#jil)
 * [libsodium](#libsodium)
+* [LINQ to DB](#linqtodb)
 * [NLog](#nlog)
 * [Nancy](#nancy)
 * [Polly](#polly)
@@ -103,6 +104,15 @@ A secure cryptographic library.
 
 [libsodium-gh]:    https://github.com/adamcaudill/libsodium-net
 [libsodium-nuget]: https://nuget.org/packages/libsodium-net
+
+## LINQ to DB
+
+<sup>[GitHub][libsodium-gh]</sup> <sup>[NuGet][libsodium-nuget]</sup>
+
+Linq to database provider.
+
+[libsodium-gh]:    https://github.com/linq2db/linq2db
+[libsodium-nuget]: http://nuget.org/packages/linq2db
 
 ## [NLog][nlog]
 
