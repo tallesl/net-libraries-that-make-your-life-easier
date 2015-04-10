@@ -13,6 +13,7 @@
 * [Nancy](#nancy)
 * [Polly](#polly)
 * [Postal](#postal)
+* [Refit](#refit)
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [Simple.Data](#simpledata)
@@ -141,6 +142,16 @@ Email sending for asp.net mvc using the view engine system to render emails.
 [postal]:       http://aboutcode.net/postal
 [postal-gh]:    https://github.com/andrewdavey/postal
 [postal-nuget]: http://nuget.org/packages/Postal.Mvc5
+
+## [Refit][refit]
+
+<sup>[GitHub][refit-gh]</sup> <sup>[NuGet][refit-nuget]</sup>
+
+The automatic type-safe REST library for Xamarin and .NET.
+
+[refit]:       http://paulcbetts.github.io/refit
+[refit-gh]:    https://github.com/paulcbetts/refit
+[refit-nuget]: http://nuget.org/packages/refit
 
 ## [RestSharp][restsharp]
 
