@@ -4,6 +4,7 @@
 * [Dapper](#dapper)
 * [Formo](#formo)
 * [Hangfire](#hangfire)
+* [HtmlAgilityPack](#htmlagilitypack)
 * [Hyperletter](#hyperletter)
 * [Jil](#jil)
 * [libsodium](#libsodium)
@@ -54,6 +55,15 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 [hangfire]:       http://hangfire.io
 [hangfire-gh]:    https://github.com/HangfireIO/Hangfire
 [hangfire-nuget]: https://nuget.org/packages/HangFire
+
+## HtmlAgilityPack
+
+<sup><del>GitHub</del> [CodePlex][htmlagilitypack-gh]</sup> <sup>[NuGet][htmlagilitypack-nuget]</sup>
+
+Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications.
+
+[htmlagilitypack-gh]:    https://htmlagilitypack.codeplex.com
+[htmlagilitypack-nuget]: http://nuget.org/packages/HtmlAgilityPack
 
 ## Hyperletter
 
