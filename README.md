@@ -15,6 +15,7 @@
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [Simple.Data](#simpledata)
+* [T4MVC](#t4mvc)
 * [Topshelf](#topshelf)
 
 ## [AutoMapper][automapper]
@@ -159,6 +160,15 @@ A light-weight, dynamic data access component for C# 4.0.
 
 [simpledata-gh]:    https://github.com/markrendle/Simple.Data
 [simpledata-nuget]: http://nuget.org/packages/Simple.Data.Core
+
+## T4MVC
+
+<sup>[GitHub][t4mvc-gh]</sup> <sup>[NuGet][t4mvc-nuget]</sup>
+
+T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers that eliminate the use of literal strings in many places.
+
+[t4mvc-gh]:    https://github.com/T4MVC/T4MVC
+[t4mvc-nuget]: http://nuget.org/packages/T4MVC
 
 ## [Topshelf][topshelf]
 
