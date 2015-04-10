@@ -107,12 +107,12 @@ A secure cryptographic library.
 
 ## LINQ to DB
 
-<sup>[GitHub][libsodium-gh]</sup> <sup>[NuGet][libsodium-nuget]</sup>
+<sup>[GitHub][linqtodb-gh]</sup> <sup>[NuGet][linqtodb-nuget]</sup>
 
 Linq to database provider.
 
-[libsodium-gh]:    https://github.com/linq2db/linq2db
-[libsodium-nuget]: http://nuget.org/packages/linq2db
+[linqtodb-gh]:    https://github.com/linq2db/linq2db
+[linqtodb-nuget]: http://nuget.org/packages/linq2db
 
 ## [NLog][nlog]
 
