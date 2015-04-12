@@ -10,6 +10,7 @@
 * [DoddleReport](#doddlereport)
 * [Dynamic Data](#dynamic-data)
 * [Effort](#effort)
+* [EPPlus](#epplus)
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
 * [Fixie](#fixie)
@@ -141,6 +142,15 @@ Effort is a powerful tool that enables a convenient way to create automated test
 
 [effort-gh]:    https://github.com/tamasflamich/effort
 [effort-nuget]: https://nuget.org/packages/Effort
+
+## EPPlus
+
+<sup><del>GitHub</del> [CodePlex][epplus-gh]</sup> <sup>[NuGet][epplus-nuget]</sup>
+
+EPPlus is a .net library that reads and writes Excel 2007/2010 files using the Open Office Xml format (xlsx).
+
+[epplus-gh]:    http://epplus.codeplex.com
+[epplus-nuget]: http://nuget.org/packages/EPPlus
 
 ## Fasterflect
 
