@@ -30,6 +30,7 @@
 * [SpecsFor](#specsfor)
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
+* [TinyMapper](#tinymapper)
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
 
@@ -297,6 +298,16 @@ T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers 
 
 [t4mvc-gh]:    https://github.com/T4MVC/T4MVC
 [t4mvc-nuget]: http://nuget.org/packages/T4MVC
+
+## [TinyMapper][tinymapper]
+
+<sup>[GitHub][tinymapper-gh]</sup> <sup>[NuGet][tinymapper-nuget]</sup>
+
+A quick object-object mapper for .NET.
+
+[tinymapper]:       http://tinymapper.net
+[tinymapper-gh]:    https://github.com/TinyMapper/TinyMapper
+[tinymapper-nuget]: https://nuget.org/packages/TinyMapper
 
 ## [SpecsFor][specsfor]
 
