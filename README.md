@@ -25,6 +25,7 @@
 * [ImageResizer](#imageresizer)
 * [Insight.Database](#insightdatabase)
 * [Jil](#jil)
+* [Json.NET](#jsonnet)
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
 * [Logary ](#logary)
@@ -274,6 +275,16 @@ Fast .NET JSON (De)Serializer, Built On Sigil.
 
 [jil-gh]:    https://github.com/kevin-montrose/Jil
 [jil-nuget]: https://nuget.org/packages/Jil
+
+## [Json.NET][jsonnet]
+
+<sup>[GitHub][jsonnet-gh]</sup> <sup>[NuGet][jsonnet-nuget]</sup>
+
+Json.NET is a popular high-performance JSON framework for .NET.
+
+[jsonnet]:       http://newtonsoft.com/json
+[jsonnet-gh]:    https://github.com/JamesNK/Newtonsoft.Json
+[jsonnet-nuget]: https://nuget.org/packages/Newtonsoft.Json
 
 ## Insight.Database
 
