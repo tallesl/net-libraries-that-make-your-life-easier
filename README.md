@@ -3,6 +3,7 @@
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
+* [Cirqus](#cirqus)
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamic-data)
 * [Fasterflect](#fasterflect)
@@ -56,6 +57,15 @@ CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# a
 
 [csquery-gh]:    https://github.com/jamietre/CsQuery
 [csquery-nuget]: http://nuget.org/packages/CsQuery
+
+## Cirqus
+
+<sup>[GitHub][cirqus-gh]</sup> <sup>[NuGet][cirqus-nuget]</sup>
+
+d60 event sourcing + CQRS framework.
+
+[cirqus-gh]:    https://github.com/d60/Cirqus
+[cirqus-nuget]: http://nuget.org/packages/d60.Cirqus
 
 ## Dapper
 
