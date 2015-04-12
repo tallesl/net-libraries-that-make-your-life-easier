@@ -7,6 +7,7 @@
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamic-data)
 * [Fasterflect](#fasterflect)
+* [FluentMigrator](#fluentmigrator)
 * [Formo](#formo)
 * [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
@@ -96,6 +97,15 @@ Reactive extensions for collections.
 
 [fasterflect-gh]:    https://fasterflect.codeplex.com
 [fasterflect-nuget]: http://nuget.org/packages/fasterflect
+
+## FluentMigrator
+
+<sup>[GitHub][fluentmigrator-gh]</sup> <sup>[NuGet][fluentmigrator-nuget]</sup>
+
+Fluent Migrations framework for .net.
+
+[fluentmigrator-gh]:    https://github.com/schambers/fluentmigrator
+[fluentmigrator-nuget]: http://nuget.org/packages/FluentMigrator
 
 ## [Formo][formo]
 
