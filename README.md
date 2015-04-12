@@ -7,6 +7,7 @@
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamic-data)
 * [Fasterflect](#fasterflect)
+* [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
 * [Formo](#formo)
 * [Glimpse](#glimpse)
@@ -99,6 +100,16 @@ Reactive extensions for collections.
 
 [fasterflect-gh]:    https://fasterflect.codeplex.com
 [fasterflect-nuget]: http://nuget.org/packages/fasterflect
+
+## [Fixie][fixie]
+
+<sup>[GitHub][fixie-gh]</sup> <sup>[NuGet][fixie-nuget]</sup>
+
+Conventional Testing for .NET.
+
+[fixie]:       http://fixie.github.io
+[fixie-gh]:    https://github.com/fixie/fixie
+[fixie-nuget]: http://nuget.org/packages/Fixie
 
 ## FluentMigrator
 
