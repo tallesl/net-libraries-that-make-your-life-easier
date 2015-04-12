@@ -20,6 +20,7 @@
 * [Refit](#refit)
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
+* [ServiceStack](#servicestack)
 * [Simple.Data](#simpledata)
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
@@ -215,6 +216,16 @@ Simple .NET logging with fully-structured events.
 [serilog]:       http://serilog.net
 [serilog-gh]:    https://github.com/serilog/serilog
 [serilog-nuget]: https://nuget.org/packages/Common.Logging.Serilog
+
+## [ServiceStack][]
+
+<sup>[GitHub][servicestack-gh]</sup> <sup>[NuGet][servicestack-nuget]</sup>
+
+Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all.
+
+[servicestack]:       https://servicestack.net
+[servicestack-gh]:    https://github.com/ServiceStack/ServiceStack
+[servicestack-nuget]: http://nuget.org/packages/ServiceStack
 
 ## Simple.Data
 
