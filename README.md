@@ -38,6 +38,7 @@
 * [TinyMapper](#tinymapper)
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
+* [Units.NET](#unitsnet)
 * [Serenity](#serenity)
 
 ## [AutoMapper][automapper]
@@ -401,6 +402,15 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 
 [tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
 [tuespechkin-nuget]: https://nuget.org/packages/TuesPechkin
+
+## Units.NET
+
+<sup>[GitHub][unitsnet-gh]</sup> <sup>[NuGet][unitsnet-nuget]</sup>
+
+Makes life working with units of measurement just a little bit better.
+
+[unitsnet-gh]:    https://github.com/InitialForce/UnitsNet
+[unitsnet-nuget]: http://nuget.org/packages/UnitsNet
 
 ## [Serenity][serenity]
 
