@@ -1,5 +1,6 @@
 # Open Source .NET libraries that make your life easier
 
+* [Abot](#abot)
 * [Akka.NET](#akkanet)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
@@ -46,6 +47,15 @@
 * [TuesPechkin](#tuespechkin)
 * [Units.NET](#unitsnet)
 * [Serenity](#serenity)
+
+## Abot
+
+<sup>[GitHub][abot-gh]</sup> <sup>[NuGet][abot-nuget]</sup>
+
+C# web crawler built for speed and flexibility.
+
+[abot-gh]:    https://github.com/sjdirect/abot
+[abot-nuget]: https://nuget.org/packages/Abot
 
 ## [Akka.NET][akkanet]
 
