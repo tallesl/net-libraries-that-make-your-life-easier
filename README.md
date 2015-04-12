@@ -32,6 +32,7 @@
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [ServiceStack](#servicestack)
+* [Shouldly](#shouldly)
 * [Simple.Data](#simpledata)
 * [SpecsFor](#specsfor)
 * [StructureMap](#structuremap)
@@ -346,6 +347,16 @@ Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for 
 [servicestack]:       https://servicestack.net
 [servicestack-gh]:    https://github.com/ServiceStack/ServiceStack
 [servicestack-nuget]: http://nuget.org/packages/ServiceStack
+
+## [Shouldly][shouldly]
+
+<sup>[GitHub][shouldly-gh]</sup> <sup>[NuGet][shouldly-nuget]</sup>
+
+Should testing for .net - the way Asserting \*Should\* be!
+
+[shouldly]:       http://docs.shouldly-lib.net
+[shouldly-gh]:    https://github.com/shouldly/shouldly
+[shouldly-nuget]: http://nuget.org/packages/Shouldly
 
 ## Simple.Data
 
