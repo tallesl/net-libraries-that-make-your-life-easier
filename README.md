@@ -1,5 +1,6 @@
 # Open Source .NET libraries that make your life easier
 
+* [Akka.NET](#akkanet)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
@@ -41,6 +42,16 @@
 * [TuesPechkin](#tuespechkin)
 * [Units.NET](#unitsnet)
 * [Serenity](#serenity)
+
+## [Akka.NET][akkanet]
+
+<sup>[GitHub][akkanet-gh]</sup> <sup>[NuGet][akkanet-nuget]</sup>
+
+Port of Akka actors for .NET.
+
+[akkanet]:       http://getakka.net
+[akkanet-gh]:    https://github.com/akkadotnet/akka.net
+[akkanet-nuget]: https://nuget.org/packages/Akka
 
 ## [AutoMapper][automapper]
 
