@@ -23,6 +23,7 @@
 * [Polly](#polly)
 * [Postal](#postal)
 * [Refit](#refit)
+* [Restful Routing](#restful-routing)
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [ServiceStack](#servicestack)
@@ -250,6 +251,16 @@ The automatic type-safe REST library for Xamarin and .NET.
 [refit]:       http://paulcbetts.github.io/refit
 [refit-gh]:    https://github.com/paulcbetts/refit
 [refit-nuget]: http://nuget.org/packages/refit
+
+## [Restful Routing][restfulrouting]
+
+<sup>[GitHub][restfulrouting-gh]</sup> <sup>[NuGet][restfulrouting-nuget]</sup>
+
+A rails inspired restful routing api for asp .net mvc.
+
+[restfulrouting]:       http://restfulrouting.com
+[restfulrouting-gh]:    https://github.com/stevehodgkiss/restful-routing
+[restfulrouting-nuget]: http://nuget.org/packages/RestfulRouting
 
 ## [RestSharp][restsharp]
 
