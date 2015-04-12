@@ -7,6 +7,7 @@
 * [CsQuery](#csquery)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
+* [DoddleReport](#doddlereport)
 * [Dynamic Data](#dynamic-data)
 * [Effort](#effort)
 * [Fasterflect](#fasterflect)
@@ -112,6 +113,15 @@ A simple object mapper for .Net.
 
 [dapper-gh]:    https://github.com/StackExchange/dapper-dot-net
 [dapper-nuget]: http://nuget.org/packages/Dapper
+
+## DoddleReport
+
+<sup><del>GitHub</del> [CodePlex][doddlereport-gh]</sup> <sup>[NuGet][doddlereport-nuget]</sup>
+
+DoddleReport generates tabular reports from any IEnumerable datasource.
+
+[doddlereport-gh]:    http://doddlereport.codeplex.com
+[doddlereport-nuget]: http://nuget.org/packages/DoddleReport
 
 ## [Dynamic Data][dynamicdata]
 
