@@ -8,6 +8,7 @@
 * [Dynamic Data](#dynamic-data)
 * [Fasterflect](#fasterflect)
 * [Formo](#formo)
+* [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
 * [Hyperletter](#hyperletter)
@@ -105,6 +106,16 @@ Formo allows you to use your configuration file as a dynamic object. Turn your w
 [formo]:       http://chrismissal.com/Formo   
 [formo-gh]:    https://github.com/ChrisMissal/Formo
 [formo-nuget]: https://nuget.org/packages/Formo
+
+## [Glimpse][glimpse]
+
+<sup>[GitHub][glimpse-gh]</sup> <sup>[NuGet][glimpse-nuget]</sup>
+
+The open source diagnostics platform for the web.
+
+[glimpse]:       http://getglimpse.com
+[glimpse-gh]:    https://github.com/Glimpse/Glimpse
+[glimpse-nuget]: http://www.nuget.org/packages/Glimpse/
 
 ## [Hangfire][hangfire]
 
