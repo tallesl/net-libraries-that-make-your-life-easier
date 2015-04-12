@@ -13,6 +13,7 @@
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
 * [Formo](#formo)
+* [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
@@ -166,6 +167,16 @@ Formo allows you to use your configuration file as a dynamic object. Turn your w
 [formo]:       http://chrismissal.com/Formo   
 [formo-gh]:    https://github.com/ChrisMissal/Formo
 [formo-nuget]: https://nuget.org/packages/Formo
+
+## [FsCheck][fscheck]
+
+<sup>[GitHub][fscheck-gh]</sup> <sup>[NuGet][fscheck-nuget]</sup>
+
+ Random Testing for .NET.
+
+[fscheck]:       https://fsharp.github.io/FsCheck
+[fscheck-gh]:    https://github.com/fsharp/FsCheck
+[fscheck-nuget]: http://nuget.org/packages/FsCheck
 
 ## [Glimpse][glimpse]
 
