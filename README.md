@@ -26,6 +26,7 @@
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
 * [Topshelf](#topshelf)
+* [TuesPechkin](#tuespechkin)
 
 ## [AutoMapper][automapper]
 
@@ -274,3 +275,12 @@ An easy service hosting framework for building Windows services using .NET.
 [topshelf]:       http://topshelf-project.com 
 [topshelf-gh]:    https://github.com/Topshelf/Topshelf
 [topshelf-nuget]: http://nuget.org/packages/Topshelf
+
+## TuesPechkin
+
+<sup>[GitHub][tuespechkin-gh]</sup> <sup>[NuGet][tuespechkin-nuget]</sup>
+
+A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
+
+[tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
+[tuespechkin-nuget]: https://nuget.org/packages/TuesPechkin
