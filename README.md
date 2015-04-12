@@ -31,6 +31,7 @@
 * [ServiceStack](#servicestack)
 * [Simple.Data](#simpledata)
 * [SpecsFor](#specsfor)
+* [StructureMap](#structuremap)
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
 * [TinyMapper](#tinymapper)
@@ -350,6 +351,16 @@ SpecsFor is a light-weight Behavior-Driven Development framework that focuses on
 [specsfor]:       http://specsfor.com
 [specsfor-gh]:    https://github.com/MattHoneycutt/SpecsFor
 [specsfor-nuget]: http://nuget.org/packages/SpecsFor
+
+## [StructureMap][structuremap]
+
+<sup>[GitHub][structuremap-gh]</sup> <sup>[NuGet][structuremap-nuget]</sup>
+
+A Dependency Injection/Inversion of Control tool for .NET.
+
+[structuremap]:       http://structuremap.github.io
+[structuremap-gh]:    https://github.com/structuremap/structuremap
+[structuremap-nuget]: http://nuget.org/packages/structuremap
 
 ## [Suave][suave]
 
