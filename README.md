@@ -37,6 +37,7 @@
 * [TinyMapper](#tinymapper)
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
+* [Serenity](#serenity)
 
 ## [AutoMapper][automapper]
 
@@ -390,3 +391,13 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 
 [tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
 [tuespechkin-nuget]: https://nuget.org/packages/TuesPechkin
+
+## [Serenity][serenity-guide]
+
+<sup>[GitHub][serenity-gh]</sup> <sup>[NuGet][serenity-nuget]</sup>
+
+Serenity is a Javascript / .NET application platform which has been built on open source technologies.
+
+[serenity-gh]:    https://github.com/volkanceylan/Serenity
+[serenity-nuget]: https://www.nuget.org/profiles/volkanceylan
+[serenity-guide]: http://volkanceylan.github.io/SerenityGuide
