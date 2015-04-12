@@ -8,6 +8,7 @@
 * [Dynamic Data](#dynamic-data)
 * [Effort](#effort)
 * [Fasterflect](#fasterflect)
+* [Fibber](#fibber)
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
 * [Formo](#formo)
@@ -114,6 +115,15 @@ Effort is a powerful tool that enables a convenient way to create automated test
 
 [fasterflect-gh]:    https://fasterflect.codeplex.com
 [fasterflect-nuget]: http://nuget.org/packages/fasterflect
+
+## Fibber
+
+<sup>[GitHub][fibber-gh]</sup> <sup>[NuGet][fibber-nuget]</sup>
+
+An indiscriminate data generator that will generate random data for all properties in a given class based on the property's type vs. its name.
+
+[fibber-gh]:    https://github.com/Schandlich/Fibber
+[fibber-nuget]: http://nuget.org/packages/Fibber
 
 ## [Fixie][fixie]
 
