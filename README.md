@@ -14,6 +14,7 @@
 * [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
+* [Humanizer](#humanizer)
 * [Hyperletter](#hyperletter)
 * [Insight.Database](#insightdatabase)
 * [Jil](#jil)
@@ -170,6 +171,15 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 
 [htmlagilitypack-gh]:    https://htmlagilitypack.codeplex.com
 [htmlagilitypack-nuget]: http://nuget.org/packages/HtmlAgilityPack
+
+## Humanizer
+
+<sup>[GitHub][humanizer-gh]</sup> <sup>[NuGet][humanizer-nuget]</sup>
+
+Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
+
+[humanizer-gh]:    https://github.com/MehdiK/Humanizer
+[humanizer-nuget]: https://nuget.org/packages/Humanizer
 
 ## Hyperletter
 
@@ -392,12 +402,12 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 [tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
 [tuespechkin-nuget]: https://nuget.org/packages/TuesPechkin
 
-## [Serenity][serenity-guide]
+## [Serenity][serenity]
 
 <sup>[GitHub][serenity-gh]</sup> <sup>[NuGet][serenity-nuget]</sup>
 
 Serenity is a Javascript / .NET application platform which has been built on open source technologies.
 
+[serenity]:       http://volkanceylan.github.io/SerenityGuide
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
-[serenity-nuget]: https://www.nuget.org/profiles/volkanceylan
-[serenity-guide]: http://volkanceylan.github.io/SerenityGuide
+[serenity-nuget]: https://nuget.org/profiles/volkanceylan
