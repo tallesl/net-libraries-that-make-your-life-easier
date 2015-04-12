@@ -6,6 +6,7 @@
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamic-data)
+* [Effort](#effort)
 * [Fasterflect](#fasterflect)
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
@@ -91,6 +92,15 @@ Reactive extensions for collections.
 [dynamicdata]:       http://dynamic-data.org
 [dynamicdata-gh]:    https://github.com/RolandPheasant/DynamicData
 [dynamicdata-nuget]: http://nuget.org/packages/DynamicData
+
+## Effort
+
+<sup>[GitHub][effort-gh]</sup> <sup>[NuGet][effort-nuget]</sup>
+
+Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
+
+[effort-gh]:    https://github.com/tamasflamich/effort
+[effort-nuget]: https://nuget.org/packages/Effort
 
 ## Fasterflect
 
