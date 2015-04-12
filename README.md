@@ -25,6 +25,7 @@
 * [Serilog](#serilog)
 * [ServiceStack](#servicestack)
 * [Simple.Data](#simpledata)
+* [SpecsFor](#specsfor)
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
 * [Topshelf](#topshelf)
@@ -248,7 +249,7 @@ Simple .NET logging with fully-structured events.
 [serilog-gh]:    https://github.com/serilog/serilog
 [serilog-nuget]: https://nuget.org/packages/Common.Logging.Serilog
 
-## [ServiceStack][]
+## [ServiceStack][servicestack]
 
 <sup>[GitHub][servicestack-gh]</sup> <sup>[NuGet][servicestack-nuget]</sup>
 
@@ -275,6 +276,16 @@ T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers 
 
 [t4mvc-gh]:    https://github.com/T4MVC/T4MVC
 [t4mvc-nuget]: http://nuget.org/packages/T4MVC
+
+## [SpecsFor][specsfor]
+
+<sup>[GitHub][specsfor-gh]</sup> <sup>[NuGet][specsfor-nuget]</sup>
+
+SpecsFor is a light-weight Behavior-Driven Development framework that focuses on ease of use for \*developers\* by minimizing testing friction.
+
+[specsfor]:       http://specsfor.com
+[specsfor-gh]:    https://github.com/MattHoneycutt/SpecsFor
+[specsfor-nuget]: http://nuget.org/packages/SpecsFor
 
 ## [Suave][suave]
 
