@@ -19,6 +19,7 @@
 * [HtmlAgilityPack](#htmlagilitypack)
 * [Humanizer](#humanizer)
 * [Hyperletter](#hyperletter)
+* [ImageResizer](#imageresizer)
 * [Insight.Database](#insightdatabase)
 * [Jil](#jil)
 * [libsodium](#libsodium)
@@ -224,6 +225,16 @@ Hyperletter helps you distribute your system, like a mix of WCF and ZeroMQ.
 
 [hyperletter-gh]:    https://github.com/Jiddler/Hyperletter
 [hyperletter-nuget]: http://nuget.org/packages/Hyperletter
+
+## [ImageResizer][imageresizer]
+
+<sup>[GitHub][imageresizer-gh]</sup> <sup>[NuGet][imageresizer-nuget]</sup>
+
+The official repository for ImageResizer.
+
+[imageresizer]:       http://imageresizing.net
+[imageresizer-gh]:    https://github.com/imazen/resizer
+[imageresizer-nuget]: https://nuget.org/packages/ImageResizer
 
 ## Jil
 
