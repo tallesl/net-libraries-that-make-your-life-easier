@@ -1,6 +1,7 @@
 # Open Source .NET libraries that make your life easier
 
 * [AutoMapper](#automapper)
+* [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamicdata)
@@ -35,6 +36,15 @@ A convention-based object-object mapper in .NET.
 [automapper]:       http://automapper.org
 [automapper-gh]:    https://github.com/AutoMapper/AutoMapper
 [automapper-nuget]: https://nuget.org/packages/AutoMapper
+
+## BCrypt.Net
+
+<sup><del>GitHub</del> [CodePlex][bcryptnet-gh]</sup> <sup>[NuGet][bcryptnet-nuget]</sup>
+
+A .Net port of jBCrypt implemented in C#.
+
+[bcryptnet-gh]:    http://bcrypt.codeplex.com
+[bcryptnet-nuget]: https://nuget.org/packages/BCrypt-Official
 
 ## CsQuery
 
