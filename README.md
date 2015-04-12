@@ -28,6 +28,7 @@
 * [Polly](#polly)
 * [Postal](#postal)
 * [Refit](#refit)
+* [Regextra](#regextra)
 * [Restful Routing](#restful-routing)
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
@@ -307,6 +308,15 @@ The automatic type-safe REST library for Xamarin and .NET.
 [refit]:       http://paulcbetts.github.io/refit
 [refit-gh]:    https://github.com/paulcbetts/refit
 [refit-nuget]: http://nuget.org/packages/refit
+
+## Regextra
+
+<sup>[GitHub][regextra-gh]</sup> <sup>[NuGet][regextra-nuget]</sup>
+
+Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}.
+
+[regextra-gh]:    https://github.com/amageed/Regextra
+[regextra-nuget]: https://nuget.org/packages/Regextra
 
 ## [Restful Routing][restfulrouting]
 
