@@ -5,6 +5,7 @@
 * [CsQuery](#csquery)
 * [Dapper](#dapper)
 * [Dynamic Data](#dynamic-data)
+* [Fasterflect](#fasterflect)
 * [Formo](#formo)
 * [Hangfire](#hangfire)
 * [HtmlAgilityPack](#htmlagilitypack)
@@ -74,6 +75,15 @@ Reactive extensions for collections.
 [dynamicdata]:       http://dynamic-data.org
 [dynamicdata-gh]:    https://github.com/RolandPheasant/DynamicData
 [dynamicdata-nuget]: http://nuget.org/packages/DynamicData
+
+## Fasterflect
+
+<sup><del>GitHub</del> [CodePlex][fasterflect-gh]</sup> <sup>[NuGet][fasterflect-nuget]</sup>
+
+.NET library that improves your productivity and application performance when performing reflection operations. It allows you to perform metadata lookup and reflection invocation intuitively while achieving greater performance than the built-in .NET Reflection.
+
+[fasterflect-gh]:    https://fasterflect.codeplex.com
+[fasterflect-nuget]: http://nuget.org/packages/fasterflect
 
 ## [Formo][formo]
 
