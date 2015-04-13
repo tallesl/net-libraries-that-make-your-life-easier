@@ -2,6 +2,7 @@
 
 * [Abot](#abot)
 * [Akka.NET](#akkanet)
+* [Autofac](#autofac)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
@@ -69,6 +70,16 @@ Port of Akka actors for .NET.
 [akkanet]:       http://getakka.net
 [akkanet-gh]:    https://github.com/akkadotnet/akka.net
 [akkanet-nuget]: https://nuget.org/packages/Akka
+
+## [Autofac][autofac]
+
+<sup>[GitHub][autofac-gh]</sup> <sup>[NuGet][autofac-nuget]</sup>
+
+An addictive .NET IoC container.
+
+[autofac]:       http://autofac.org
+[autofac-gh]:    https://github.com/autofac/Autofac
+[autofac-nuget]: https://nuget.org/packages/Autofac
 
 ## [AutoMapper][automapper]
 
