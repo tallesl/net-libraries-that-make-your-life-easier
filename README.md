@@ -19,6 +19,7 @@ Ah, and make sure to also check these other great lists:
 * [DoddleReport](#doddlereport)
 * [Dynamic Data](#dynamic-data)
 * [Effort](#effort)
+* [ELMAH](#elmah)
 * [EPPlus](#epplus)
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
@@ -162,6 +163,15 @@ Effort is a powerful tool that enables a convenient way to create automated test
 
 [effort-gh]:    https://github.com/tamasflamich/effort
 [effort-nuget]: https://nuget.org/packages/Effort
+
+## ELMAH
+
+<sup><del>GitHub</del> [Google Code][elmah-gh]</sup> <sup>[NuGet][elmah-nuget]</sup>
+
+Error Logging Modules and Handlers for ASP.NET.
+
+[elmah-gh]:    https://code.google.com/p/elmah
+[elmah-nuget]: https://nuget.org/packages/elmah
 
 ## EPPlus
 
