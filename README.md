@@ -1,6 +1,6 @@
 This is a list I've made after reading [this HN thread](https://news.ycombinator.com/item?id=9353668) ([and its article](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier)). I found the links so useful that I'll probably need to check those later.
 
-Feel free to suggest a library (by [opening an issue](issues) or [creating a pull request](pulls)).
+Feel free to suggest a library (by [opening an issue](https://github.com/tallesl/.NET-libraries/issues) or [creating a pull request](https://github.com/tallesl/.NET-libraries/pulls)).
 
 # Open Source .NET libraries that make your life easier
 
