@@ -2,6 +2,10 @@ This is a list I've made after reading [this HN thread](https://news.ycombinator
 
 Feel free to suggest a library (by [opening an issue](https://github.com/tallesl/.NET-libraries/issues) or [creating a pull request](https://github.com/tallesl/.NET-libraries/pulls)).
 
+Ah, and make sure to also check these other great lists:
+* [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md);
+* [Awesome .NET!](https://github.com/quozd/awesome-dotnet).
+
 # Open Source .NET libraries that make your life easier
 
 * [Abot](#abot)
