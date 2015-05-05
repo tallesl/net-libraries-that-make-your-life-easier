@@ -41,6 +41,7 @@ Ah, and make sure to also check these other great lists:
 * [Logary ](#logary)
 * [NLog](#nlog)
 * [Nancy](#nancy)
+* [OpaqueMail](#opaquemail)
 * [Polly](#polly)
 * [Postal](#postal)
 * [Refit](#refit)
@@ -371,6 +372,16 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 [nancy]:       http://nancyfx.org
 [nancy-gh]:    https://github.com/NancyFx/Nancy
 [nancy-nuget]: https://nuget.org/packages/Nancy
+
+## [OpaqueMail][opaquemail]
+
+<sup>[GitHub][nancy-gh]</sup> <sup>[NuGet][nancy-nuget]</sup>
+
+.NET e-mail library and proxy supporting IMAP, POP3, and SMTP with S/MIME.
+
+[opaquemail]:       http://opaquemail.org
+[opaquemail-gh]:    https://github.com/bertjohnson/OpaqueMail
+[opaquemail-nuget]: http://nuget.org/packages/OpaqueMail
 
 ## Polly
 
