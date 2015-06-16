@@ -39,8 +39,9 @@ Ah, and make sure to also check these other great lists:
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
 * [Logary ](#logary)
-* [NLog](#nlog)
 * [Nancy](#nancy)
+* [NLog](#nlog)
+* [NSubstitute](#nsubstitute)
 * [OpaqueMail](#opaquemail)
 * [Polly](#polly)
 * [Postal](#postal)
@@ -353,6 +354,16 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 [logary-gh]:    https://github.com/logary/logary
 [logary-nuget]: http://nuget.org/packages/Logary
 
+## [Nancy][nancy]
+
+<sup>[GitHub][nancy-gh]</sup> <sup>[NuGet][nancy-nuget]</sup>
+
+Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono.
+
+[nancy]:       http://nancyfx.org
+[nancy-gh]:    https://github.com/NancyFx/Nancy
+[nancy-nuget]: https://nuget.org/packages/Nancy
+
 ## [NLog][nlog]
 
 <sup>[GitHub][nlog-gh]</sup> <sup>[NuGet][nlog-nuget]</sup>
@@ -363,15 +374,15 @@ Advanced .NET and Silverlight Logging.
 [nlog-gh]:    https://github.com/NLog/NLog
 [nlog-nuget]: http://nuget.org/packages/NLog
 
-## [Nancy][nancy]
+## [NSubstitute][nsubstitute]
 
-<sup>[GitHub][nancy-gh]</sup> <sup>[NuGet][nancy-nuget]</sup>
+<sup>[GitHub][nsubstitute-gh]</sup> <sup>[NuGet][nsubstitute-nuget]</sup>
 
-Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono.
+A friendly substitute for .NET mocking frameworks.
 
-[nancy]:       http://nancyfx.org
-[nancy-gh]:    https://github.com/NancyFx/Nancy
-[nancy-nuget]: https://nuget.org/packages/Nancy
+[nsubstitute]:       http://nsubstitute.github.io
+[nsubstitute-gh]:    https://github.com/nsubstitute/NSubstitute
+[nsubstitute-nuget]: https://nuget.org/packages/NSubstitute
 
 ## [OpaqueMail][opaquemail]
 
