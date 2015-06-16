@@ -39,6 +39,8 @@ Ah, and make sure to also check these other great lists:
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
 * [Logary ](#logary)
+* [MailKit](#mailkit)
+* [MimeKit](#mimekit)
 * [Nancy](#nancy)
 * [NLog](#nlog)
 * [NSubstitute](#nsubstitute)
@@ -353,6 +355,25 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 [logary]:       http://logary.github.io
 [logary-gh]:    https://github.com/logary/logary
 [logary-nuget]: http://nuget.org/packages/Logary
+
+## MailKit
+
+<sup>[GitHub][mailkit-gh]</sup> <sup>[NuGet][mailkit-nuget]</sup>
+
+A cross-platform .NET library for IMAP, POP3, and SMTP.
+
+[mailkit-gh]:    https://github.com/jstedfast/MailKit
+[mailkit-nuget]: https://nuget.org/packages/MailKit
+
+## [MimeKit][mimekit]
+
+<sup>[GitHub][mimekit-gh]</sup> <sup>[NuGet][mimekit-nuget]</sup>
+
+A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+
+[mimekit]:       http://mimekit.net
+[mimekit-gh]:    https://github.com/jstedfast/MimeKit
+[mimekit-nuget]: https://nuget.org/packages/MimeKit
 
 ## [Nancy][nancy]
 
