@@ -47,6 +47,7 @@ Ah, and make sure to also check these other great lists:
 * [OpaqueMail](#opaquemail)
 * [Polly](#polly)
 * [Postal](#postal)
+* [Quartz.NET](#quartznet)
 * [Refit](#refit)
 * [Regextra](#regextra)
 * [Restful Routing](#restful-routing)
@@ -433,6 +434,16 @@ Email sending for asp.net mvc using the view engine system to render emails.
 [postal]:       http://aboutcode.net/postal
 [postal-gh]:    https://github.com/andrewdavey/postal
 [postal-nuget]: http://nuget.org/packages/Postal.Mvc5
+
+## [Quartz.NET][quartznet]
+
+<sup>[GitHub][quartznet-gh]</sup> <sup>[NuGet][quartznet-nuget]</sup>
+
+A full-featured, open source job scheduling system that can be used from smallest apps to large scale enterprise systems.
+
+[quartznet]:       http://quartz-scheduler.net
+[quartznet-gh]:    https://github.com/quartznet/quartznet
+[quartznet-nuget]: https://nuget.org/packages/Quartz
 
 ## [Refit][refit]
 
