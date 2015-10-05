@@ -26,6 +26,7 @@ Ah, and make sure to also check these other great lists:
 * [Fibber](#fibber)
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
+* [FluentScheduler](#fluentscheduler)
 * [Formo](#formo)
 * [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
@@ -224,6 +225,15 @@ Fluent Migrations framework for .net.
 
 [fluentmigrator-gh]:    https://github.com/schambers/fluentmigrator
 [fluentmigrator-nuget]: http://nuget.org/packages/FluentMigrator
+
+## FluentScheduler
+
+<sup>[GitHub][fluentscheduler-gh]</sup> <sup>[NuGet][fluentscheduler-nuget]</sup>
+
+A task scheduler that uses fluent interface to configure schedules. Useful for running cron jobs/automated tasks from your application.
+
+[fluentscheduler-gh]:    https://github.com/jgeurts/FluentScheduler
+[fluentscheduler-nuget]: https://nuget.org/packages/FluentScheduler
 
 ## [Formo][formo]
 
