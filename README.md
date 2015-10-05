@@ -4,7 +4,8 @@ Feel free to suggest a library (by [opening an issue](https://github.com/tallesl
 
 Ah, and make sure to also check these other great lists:
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md);
-* [Awesome .NET!](https://github.com/quozd/awesome-dotnet).
+* [Awesome .NET!](https://github.com/quozd/awesome-dotnet);
+* [Awesome LINQ](https://github.com/aloisdg/awesome-linq).
 
 # Open Source .NET libraries that make your life easier
 
