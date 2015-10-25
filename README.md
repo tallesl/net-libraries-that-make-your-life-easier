@@ -230,7 +230,7 @@ Fluent Migrations framework for .net.
 
 <sup>[GitHub][fluentscheduler-gh]</sup> <sup>[NuGet][fluentscheduler-nuget]</sup>
 
-A task scheduler that uses fluent interface to configure schedules. Useful for running cron jobs/automated tasks from your application.
+Task scheduler with fluent interface that runs automated tasks (cron jobs) from your application.
 
 [fluentscheduler-gh]:    https://github.com/jgeurts/FluentScheduler
 [fluentscheduler-nuget]: https://nuget.org/packages/FluentScheduler
