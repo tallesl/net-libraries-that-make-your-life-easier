@@ -617,6 +617,6 @@ Makes life working with units of measurement just a little bit better.
 
 Serenity is a Javascript / .NET application platform which has been built on open source technologies.
 
-[serenity]:       http://volkanceylan.github.io/SerenityGuide
+[serenity]:       https://volkanceylan.gitbooks.io/serenity-guide/content
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
 [serenity-nuget]: https://nuget.org/profiles/volkanceylan
