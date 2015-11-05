@@ -35,6 +35,7 @@ Ah, and make sure to also check these other great lists:
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
+* [FluentValidation](#fluentvalidation)
 * [Formo](#formo)
 * [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
@@ -242,6 +243,15 @@ Task scheduler with fluent interface that runs automated tasks (cron jobs) from 
 
 [fluentscheduler-gh]:    https://github.com/jgeurts/FluentScheduler
 [fluentscheduler-nuget]: https://nuget.org/packages/FluentScheduler
+
+## FluentValidation
+
+<sup>[GitHub][fluentvalidation-gh]</sup> <sup>[NuGet][fluentvalidation-nuget]</sup>
+
+A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules. 
+
+[fluentvalidation-gh]:    https://github.com/JeremySkinner/FluentValidation
+[fluentvalidation-nuget]: https://nuget.org/packages/FluentValidation
 
 ## [Formo]
 
