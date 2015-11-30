@@ -33,6 +33,7 @@ Ah, and make sure to also check these other great lists:
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
 * [Fixie](#fixie)
+* [FluentAssertions](#fluentassertions)
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
 * [FluentValidation](#fluentvalidation)
@@ -49,7 +50,7 @@ Ah, and make sure to also check these other great lists:
 * [Json.NET](#jsonnet)
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
-* [Logary ](#logary)
+* [Logary](#logary)
 * [MailKit](#mailkit)
 * [MimeKit](#mimekit)
 * [Nancy](#nancy)
@@ -226,9 +227,19 @@ Conventional Testing for .NET.
 [fixie-gh]:    https://github.com/fixie/fixie
 [fixie-nuget]: http://nuget.org/packages/Fixie
 
+## [Fluent Assertions]
+
+<sup>[GitHub][fluentassertions-gh]</sup> <sup>[NuGet][fluentassertions-nuget]</sup>
+
+Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
+
+[Fluent Assertions]:      http://fluentassertions.com
+[fluentassertions-gh]:    https://github.com/dennisdoomen/fluentassertions
+[fluentassertions-nuget]: http://nuget.org/packages/FluentAssertions
+
 ## FluentMigrator
 
-<sup>[GitHub][fluentmigrator-gh]</sup> <sup>[NuGet][fluentmigrator-nuget]</sup>
+<sup>[GitHub][fluentassertions-gh]</sup> <sup>[NuGet][fluentassertions-nuget]</sup>
 
 Fluent Migrations framework for .net.
 
