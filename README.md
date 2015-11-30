@@ -54,6 +54,7 @@ Ah, and make sure to also check these other great lists:
 * [MailKit](#mailkit)
 * [MimeKit](#mimekit)
 * [Nancy](#nancy)
+* [NFluent](#nfluent)
 * [NLog](#nlog)
 * [NSubstitute](#nsubstitute)
 * [OpaqueMail](#opaquemail)
@@ -425,6 +426,16 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 [Nancy]:       http://nancyfx.org
 [nancy-gh]:    https://github.com/NancyFx/Nancy
 [nancy-nuget]: https://nuget.org/packages/Nancy
+
+## [NFluent]
+
+<sup>[GitHub][nfluent-gh]</sup> <sup>[NuGet][nfluent-nuget]</sup>
+
+NFluent is an ergonomic assertion library which aims to fluent your .NET TDD experience (based on simple Check.That() assertion statements).
+
+[NFluent]:       http://n-fluent.net
+[nfluent-gh]:    https://github.com/tpierrain/NFluent
+[nfluent-nuget]: https://nuget.org/packages/NFluent
 
 ## [NLog]
 
