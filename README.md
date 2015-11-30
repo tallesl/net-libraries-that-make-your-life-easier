@@ -134,7 +134,7 @@ A .Net port of jBCrypt implemented in C#.
 CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
 
 [csquery-gh]:    https://github.com/jamietre/CsQuery
-[csquery-nuget]: http://nuget.org/packages/CsQuery
+[csquery-nuget]: https://nuget.org/packages/CsQuery
 
 ## Cirqus
 
@@ -143,7 +143,7 @@ CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# a
 d60 event sourcing + CQRS framework.
 
 [cirqus-gh]:    https://github.com/d60/Cirqus
-[cirqus-nuget]: http://nuget.org/packages/d60.Cirqus
+[cirqus-nuget]: https://nuget.org/packages/d60.Cirqus
 
 ## Dapper
 
@@ -152,7 +152,7 @@ d60 event sourcing + CQRS framework.
 A simple object mapper for .Net.
 
 [dapper-gh]:    https://github.com/StackExchange/dapper-dot-net
-[dapper-nuget]: http://nuget.org/packages/Dapper
+[dapper-nuget]: https://nuget.org/packages/Dapper
 
 ## DoddleReport
 
@@ -161,7 +161,7 @@ A simple object mapper for .Net.
 DoddleReport generates tabular reports from any IEnumerable datasource.
 
 [doddlereport-gh]:    http://doddlereport.codeplex.com
-[doddlereport-nuget]: http://nuget.org/packages/DoddleReport
+[doddlereport-nuget]: https://nuget.org/packages/DoddleReport
 
 ## [Dynamic Data]
 
@@ -171,7 +171,7 @@ Reactive extensions for collections.
 
 [Dynamic Data]:      http://dynamic-data.org
 [dynamicdata-gh]:    https://github.com/RolandPheasant/DynamicData
-[dynamicdata-nuget]: http://nuget.org/packages/DynamicData
+[dynamicdata-nuget]: https://nuget.org/packages/DynamicData
 
 ## Effort
 
@@ -198,7 +198,7 @@ Error Logging Modules and Handlers for ASP.NET.
 EPPlus is a .net library that reads and writes Excel 2007/2010 files using the Open Office Xml format (xlsx).
 
 [epplus-gh]:    http://epplus.codeplex.com
-[epplus-nuget]: http://nuget.org/packages/EPPlus
+[epplus-nuget]: https://nuget.org/packages/EPPlus
 
 ## Fasterflect
 
@@ -207,7 +207,7 @@ EPPlus is a .net library that reads and writes Excel 2007/2010 files using the O
 .NET library that improves your productivity and application performance when performing reflection operations. It allows you to perform metadata lookup and reflection invocation intuitively while achieving greater performance than the built-in .NET Reflection.
 
 [fasterflect-gh]:    https://fasterflect.codeplex.com
-[fasterflect-nuget]: http://nuget.org/packages/fasterflect
+[fasterflect-nuget]: https://nuget.org/packages/fasterflect
 
 ## Fibber
 
@@ -216,7 +216,7 @@ EPPlus is a .net library that reads and writes Excel 2007/2010 files using the O
 An indiscriminate data generator that will generate random data for all properties in a given class based on the property's type vs. its name.
 
 [fibber-gh]:    https://github.com/Schandlich/Fibber
-[fibber-nuget]: http://nuget.org/packages/Fibber
+[fibber-nuget]: https://nuget.org/packages/Fibber
 
 ## [Fixie]
 
@@ -226,7 +226,7 @@ Conventional Testing for .NET.
 
 [Fixie]:       http://fixie.github.io
 [fixie-gh]:    https://github.com/fixie/fixie
-[fixie-nuget]: http://nuget.org/packages/Fixie
+[fixie-nuget]: https://nuget.org/packages/Fixie
 
 ## [Fluent Assertions]
 
@@ -236,7 +236,7 @@ Fluent Assertions is a set of .NET extension methods that allow you to more natu
 
 [Fluent Assertions]:      http://fluentassertions.com
 [fluentassertions-gh]:    https://github.com/dennisdoomen/fluentassertions
-[fluentassertions-nuget]: http://nuget.org/packages/FluentAssertions
+[fluentassertions-nuget]: https://nuget.org/packages/FluentAssertions
 
 ## FluentMigrator
 
@@ -245,7 +245,7 @@ Fluent Assertions is a set of .NET extension methods that allow you to more natu
 Fluent Migrations framework for .net.
 
 [fluentmigrator-gh]:    https://github.com/schambers/fluentmigrator
-[fluentmigrator-nuget]: http://nuget.org/packages/FluentMigrator
+[fluentmigrator-nuget]: https://nuget.org/packages/FluentMigrator
 
 ## FluentScheduler
 
@@ -283,7 +283,7 @@ Formo allows you to use your configuration file as a dynamic object. Turn your w
 
 [FsCheck]:       https://fsharp.github.io/FsCheck
 [fscheck-gh]:    https://github.com/fsharp/FsCheck
-[fscheck-nuget]: http://nuget.org/packages/FsCheck
+[fscheck-nuget]: https://nuget.org/packages/FsCheck
 
 ## [Glimpse]
 
@@ -293,7 +293,7 @@ The open source diagnostics platform for the web.
 
 [Glimpse]:       http://getglimpse.com
 [glimpse-gh]:    https://github.com/Glimpse/Glimpse
-[glimpse-nuget]: http://nuget.org/packages/Glimpse/
+[glimpse-nuget]: https://nuget.org/packages/Glimpse/
 
 ## [Hangfire]
 
@@ -312,7 +312,7 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications.
 
 [htmlagilitypack-gh]:    https://htmlagilitypack.codeplex.com
-[htmlagilitypack-nuget]: http://nuget.org/packages/HtmlAgilityPack
+[htmlagilitypack-nuget]: https://nuget.org/packages/HtmlAgilityPack
 
 ## Humanizer
 
@@ -330,7 +330,7 @@ Humanizer meets all your .NET needs for manipulating and displaying strings, enu
 Hyperletter helps you distribute your system, like a mix of WCF and ZeroMQ.
 
 [hyperletter-gh]:    https://github.com/Jiddler/Hyperletter
-[hyperletter-nuget]: http://nuget.org/packages/Hyperletter
+[hyperletter-nuget]: https://nuget.org/packages/Hyperletter
 
 ## [ImageResizer]
 
@@ -368,7 +368,7 @@ Json.NET is a popular high-performance JSON framework for .NET.
 Fast, lightweight .NET micro-ORM.
 
 [insightdatabase-gh]:    https://github.com/jonwagner/Insight.Database
-[insightdatabase-nuget]: http://nuget.org/packages/Insight.Database
+[insightdatabase-nuget]: https://nuget.org/packages/Insight.Database
 
 ## libsodium
 
@@ -386,7 +386,7 @@ A secure cryptographic library.
 Linq to database provider.
 
 [linqtodb-gh]:    https://github.com/linq2db/linq2db
-[linqtodb-nuget]: http://nuget.org/packages/linq2db
+[linqtodb-nuget]: https://nuget.org/packages/linq2db
 
 ## [Logary]
 
@@ -396,7 +396,7 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 
 [Logary]:       http://logary.github.io
 [logary-gh]:    https://github.com/logary/logary
-[logary-nuget]: http://nuget.org/packages/Logary
+[logary-nuget]: https://nuget.org/packages/Logary
 
 ## MailKit
 
@@ -445,7 +445,7 @@ Advanced .NET and Silverlight Logging.
 
 [NLog]:       http://nlog-project.org
 [nlog-gh]:    https://github.com/NLog/NLog
-[nlog-nuget]: http://nuget.org/packages/NLog
+[nlog-nuget]: https://nuget.org/packages/NLog
 
 ## [NSubstitute]
 
@@ -465,7 +465,7 @@ A friendly substitute for .NET mocking frameworks.
 
 [OpaqueMail]:       http://opaquemail.org
 [opaquemail-gh]:    https://github.com/bertjohnson/OpaqueMail
-[opaquemail-nuget]: http://nuget.org/packages/OpaqueMail
+[opaquemail-nuget]: https://nuget.org/packages/OpaqueMail
 
 ## Polly
 
@@ -484,7 +484,7 @@ Email sending for asp.net mvc using the view engine system to render emails.
 
 [Postal]:       http://aboutcode.net/postal
 [postal-gh]:    https://github.com/andrewdavey/postal
-[postal-nuget]: http://nuget.org/packages/Postal.Mvc5
+[postal-nuget]: https://nuget.org/packages/Postal.Mvc5
 
 ## [Quartz.NET]
 
@@ -504,7 +504,7 @@ The automatic type-safe REST library for Xamarin and .NET.
 
 [Refit]:       http://paulcbetts.github.io/refit
 [refit-gh]:    https://github.com/paulcbetts/refit
-[refit-nuget]: http://nuget.org/packages/refit
+[refit-nuget]: https://nuget.org/packages/refit
 
 ## Regextra
 
@@ -523,7 +523,7 @@ A rails inspired restful routing api for asp .net mvc.
 
 [Restful Routing]:      http://restfulrouting.com
 [restfulrouting-gh]:    https://github.com/stevehodgkiss/restful-routing
-[restfulrouting-nuget]: http://nuget.org/packages/RestfulRouting
+[restfulrouting-nuget]: https://nuget.org/packages/RestfulRouting
 
 ## [RestSharp]
 
@@ -533,7 +533,7 @@ Simple REST and HTTP API Client for .NET.
 
 [RestSharp]:       http://restsharp.org
 [restsharp-gh]:    https://github.com/restsharp/RestSharp
-[restsharp-nuget]: http://nuget.org/packages/RestSharp
+[restsharp-nuget]: https://nuget.org/packages/RestSharp
 
 ## [Serilog]
 
@@ -553,7 +553,7 @@ Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for 
 
 [ServiceStack]:       https://servicestack.net
 [servicestack-gh]:    https://github.com/ServiceStack/ServiceStack
-[servicestack-nuget]: http://nuget.org/packages/ServiceStack
+[servicestack-nuget]: https://nuget.org/packages/ServiceStack
 
 ## [Shouldly]
 
@@ -563,7 +563,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 
 [Shouldly]:       http://docs.shouldly-lib.net
 [shouldly-gh]:    https://github.com/shouldly/shouldly
-[shouldly-nuget]: http://nuget.org/packages/Shouldly
+[shouldly-nuget]: https://nuget.org/packages/Shouldly
 
 ## Simple.Data
 
@@ -572,7 +572,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 A light-weight, dynamic data access component for C# 4.0.
 
 [simpledata-gh]:    https://github.com/markrendle/Simple.Data
-[simpledata-nuget]: http://nuget.org/packages/Simple.Data.Core
+[simpledata-nuget]: https://nuget.org/packages/Simple.Data.Core
 
 ## T4MVC
 
@@ -581,7 +581,7 @@ A light-weight, dynamic data access component for C# 4.0.
 T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers that eliminate the use of literal strings in many places.
 
 [t4mvc-gh]:    https://github.com/T4MVC/T4MVC
-[t4mvc-nuget]: http://nuget.org/packages/T4MVC
+[t4mvc-nuget]: https://nuget.org/packages/T4MVC
 
 ## [TinyMapper]
 
@@ -601,7 +601,7 @@ SpecsFor is a light-weight Behavior-Driven Development framework that focuses on
 
 [SpecsFor]:       http://specsfor.com
 [specsfor-gh]:    https://github.com/MattHoneycutt/SpecsFor
-[specsfor-nuget]: http://nuget.org/packages/SpecsFor
+[specsfor-nuget]: https://nuget.org/packages/SpecsFor
 
 ## [StructureMap]
 
@@ -611,7 +611,7 @@ A Dependency Injection/Inversion of Control tool for .NET.
 
 [StructureMap]:       http://structuremap.github.io
 [structuremap-gh]:    https://github.com/structuremap/structuremap
-[structuremap-nuget]: http://nuget.org/packages/structuremap
+[structuremap-nuget]: https://nuget.org/packages/structuremap
 
 ## [Suave]
 
@@ -621,7 +621,7 @@ Suave is a simple web development F# library providing a lightweight web server 
 
 [Suave]:       http://suave.io
 [suave-gh]:    https://github.com/SuaveIO/suave
-[suave-nuget]: http://nuget.org/packages/Suave
+[suave-nuget]: https://nuget.org/packages/Suave
 
 ## [Topshelf]
 
@@ -631,7 +631,7 @@ An easy service hosting framework for building Windows services using .NET.
 
 [Topshelf]:       http://topshelf-project.com 
 [topshelf-gh]:    https://github.com/Topshelf/Topshelf
-[topshelf-nuget]: http://nuget.org/packages/Topshelf
+[topshelf-nuget]: https://nuget.org/packages/Topshelf
 
 ## TuesPechkin
 
@@ -649,7 +649,7 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 Makes life working with units of measurement just a little bit better.
 
 [unitsnet-gh]:    https://github.com/InitialForce/UnitsNet
-[unitsnet-nuget]: http://nuget.org/packages/UnitsNet
+[unitsnet-nuget]: https://nuget.org/packages/UnitsNet
 
 ## [Serenity]
 
