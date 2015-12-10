@@ -23,6 +23,7 @@ Ah, and make sure to also check these other great lists:
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
+* [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
 * [DoddleReport](#doddlereport)
@@ -135,6 +136,15 @@ CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# a
 
 [csquery-gh]:    https://github.com/jamietre/CsQuery
 [csquery-nuget]: https://nuget.org/packages/CsQuery
+
+## CsvHelper
+
+<sup>[GitHub][csvhelper-gh]</sup> <sup>[NuGet][csvhelper-nuget]</sup>
+
+Library to help reading and writing CSV files.
+
+[csvhelper-gh]:    https://github.com/JoshClose/CsvHelper
+[csvhelper-nuget]: https://nuget.org/packages/csvhelper
 
 ## Cirqus
 
