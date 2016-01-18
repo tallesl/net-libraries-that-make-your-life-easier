@@ -9,8 +9,8 @@ Ah, and make sure to also check these other great lists:
 
 [this HN thread]:                      https://news.ycombinator.com/item?id=9353668
 [and its article]:                     http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier
-[opening an issue]:                    https://github.com/tallesl/.NET-libraries/issues
-[creating a pull request]:             https://github.com/tallesl/.NET-libraries/pulls
+[opening an issue]:                    https://github.com/tallesl/net-libraries-that-make-your-life-easier/issues
+[creating a pull request]:             https://github.com/tallesl/net-libraries-that-make-your-life-easier/pulls
 [.NET Open Source Developer Projects]: https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md
 [Awesome .NET!]:                       https://github.com/quozd/awesome-dotnet
 [Awesome LINQ]:                        https://github.com/aloisdg/awesome-linq
@@ -87,7 +87,7 @@ Ah, and make sure to also check these other great lists:
 C# web crawler built for speed and flexibility.
 
 [abot-gh]:    https://github.com/sjdirect/abot
-[abot-nuget]: https://nuget.org/packages/Abot
+[abot-nuget]: https://www.nuget.org/packages/Abot
 
 ## [Akka.NET]
 
@@ -97,7 +97,7 @@ Port of Akka actors for .NET.
 
 [Akka.NET]:      http://getakka.net
 [akkanet-gh]:    https://github.com/akkadotnet/akka.net
-[akkanet-nuget]: https://nuget.org/packages/Akka
+[akkanet-nuget]: https://www.nuget.org/packages/Akka
 
 ## [Autofac]
 
@@ -107,7 +107,7 @@ An addictive .NET IoC container.
 
 [Autofac]:       http://autofac.org
 [autofac-gh]:    https://github.com/autofac/Autofac
-[autofac-nuget]: https://nuget.org/packages/Autofac
+[autofac-nuget]: https://www.nuget.org/packages/Autofac
 
 ## [AutoMapper]
 
@@ -117,7 +117,7 @@ A convention-based object-object mapper in .NET.
 
 [AutoMapper]:       http://automapper.org
 [automapper-gh]:    https://github.com/AutoMapper/AutoMapper
-[automapper-nuget]: https://nuget.org/packages/AutoMapper
+[automapper-nuget]: https://www.nuget.org/packages/AutoMapper
 
 ## BCrypt.Net
 
@@ -126,7 +126,7 @@ A convention-based object-object mapper in .NET.
 A .Net port of jBCrypt implemented in C#.
 
 [bcryptnet-gh]:    http://bcrypt.codeplex.com
-[bcryptnet-nuget]: https://nuget.org/packages/BCrypt-Official
+[bcryptnet-nuget]: https://www.nuget.org/packages/BCrypt-Official
 
 ## CsQuery
 
@@ -135,7 +135,7 @@ A .Net port of jBCrypt implemented in C#.
 CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
 
 [csquery-gh]:    https://github.com/jamietre/CsQuery
-[csquery-nuget]: https://nuget.org/packages/CsQuery
+[csquery-nuget]: https://www.nuget.org/packages/CsQuery
 
 ## CsvHelper
 
@@ -144,7 +144,7 @@ CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# a
 Library to help reading and writing CSV files.
 
 [csvhelper-gh]:    https://github.com/JoshClose/CsvHelper
-[csvhelper-nuget]: https://nuget.org/packages/csvhelper
+[csvhelper-nuget]: https://www.nuget.org/packages/csvhelper
 
 ## Cirqus
 
@@ -153,7 +153,7 @@ Library to help reading and writing CSV files.
 d60 event sourcing + CQRS framework.
 
 [cirqus-gh]:    https://github.com/d60/Cirqus
-[cirqus-nuget]: https://nuget.org/packages/d60.Cirqus
+[cirqus-nuget]: https://www.nuget.org/packages/d60.Cirqus
 
 ## Dapper
 
@@ -162,7 +162,7 @@ d60 event sourcing + CQRS framework.
 A simple object mapper for .Net.
 
 [dapper-gh]:    https://github.com/StackExchange/dapper-dot-net
-[dapper-nuget]: https://nuget.org/packages/Dapper
+[dapper-nuget]: https://www.nuget.org/packages/Dapper
 
 ## DoddleReport
 
@@ -171,7 +171,7 @@ A simple object mapper for .Net.
 DoddleReport generates tabular reports from any IEnumerable datasource.
 
 [doddlereport-gh]:    http://doddlereport.codeplex.com
-[doddlereport-nuget]: https://nuget.org/packages/DoddleReport
+[doddlereport-nuget]: https://www.nuget.org/packages/DoddleReport
 
 ## [Dynamic Data]
 
@@ -181,7 +181,7 @@ Reactive extensions for collections.
 
 [Dynamic Data]:      http://dynamic-data.org
 [dynamicdata-gh]:    https://github.com/RolandPheasant/DynamicData
-[dynamicdata-nuget]: https://nuget.org/packages/DynamicData
+[dynamicdata-nuget]: https://www.nuget.org/packages/DynamicData
 
 ## Effort
 
@@ -190,7 +190,7 @@ Reactive extensions for collections.
 Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.
 
 [effort-gh]:    https://github.com/tamasflamich/effort
-[effort-nuget]: https://nuget.org/packages/Effort
+[effort-nuget]: https://www.nuget.org/packages/Effort
 
 ## ELMAH
 
@@ -198,8 +198,8 @@ Effort is a powerful tool that enables a convenient way to create automated test
 
 Error Logging Modules and Handlers for ASP.NET.
 
-[elmah-gh]:    https://code.google.com/p/elmah
-[elmah-nuget]: https://nuget.org/packages/elmah
+[elmah-gh]:    https://code.google.com/p/elmah/
+[elmah-nuget]: https://www.nuget.org/packages/elmah
 
 ## EPPlus
 
@@ -208,7 +208,7 @@ Error Logging Modules and Handlers for ASP.NET.
 EPPlus is a .net library that reads and writes Excel 2007/2010 files using the Open Office Xml format (xlsx).
 
 [epplus-gh]:    http://epplus.codeplex.com
-[epplus-nuget]: https://nuget.org/packages/EPPlus
+[epplus-nuget]: https://www.nuget.org/packages/EPPlus
 
 ## Fasterflect
 
@@ -217,7 +217,7 @@ EPPlus is a .net library that reads and writes Excel 2007/2010 files using the O
 .NET library that improves your productivity and application performance when performing reflection operations. It allows you to perform metadata lookup and reflection invocation intuitively while achieving greater performance than the built-in .NET Reflection.
 
 [fasterflect-gh]:    https://fasterflect.codeplex.com
-[fasterflect-nuget]: https://nuget.org/packages/fasterflect
+[fasterflect-nuget]: https://www.nuget.org/packages/fasterflect
 
 ## Fibber
 
@@ -226,7 +226,7 @@ EPPlus is a .net library that reads and writes Excel 2007/2010 files using the O
 An indiscriminate data generator that will generate random data for all properties in a given class based on the property's type vs. its name.
 
 [fibber-gh]:    https://github.com/Schandlich/Fibber
-[fibber-nuget]: https://nuget.org/packages/Fibber
+[fibber-nuget]: https://www.nuget.org/packages/Fibber
 
 ## [Fixie]
 
@@ -236,7 +236,7 @@ Conventional Testing for .NET.
 
 [Fixie]:       http://fixie.github.io
 [fixie-gh]:    https://github.com/fixie/fixie
-[fixie-nuget]: https://nuget.org/packages/Fixie
+[fixie-nuget]: https://www.nuget.org/packages/Fixie
 
 ## [Fluent Assertions]
 
@@ -244,9 +244,9 @@ Conventional Testing for .NET.
 
 Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 
-[Fluent Assertions]:      http://fluentassertions.com
+[Fluent Assertions]:      http://www.fluentassertions.com/
 [fluentassertions-gh]:    https://github.com/dennisdoomen/fluentassertions
-[fluentassertions-nuget]: https://nuget.org/packages/FluentAssertions
+[fluentassertions-nuget]: https://www.nuget.org/packages/FluentAssertions
 
 ## FluentMigrator
 
@@ -255,7 +255,7 @@ Fluent Assertions is a set of .NET extension methods that allow you to more natu
 Fluent Migrations framework for .net.
 
 [fluentmigrator-gh]:    https://github.com/schambers/fluentmigrator
-[fluentmigrator-nuget]: https://nuget.org/packages/FluentMigrator
+[fluentmigrator-nuget]: https://www.nuget.org/packages/FluentMigrator
 
 ## FluentScheduler
 
@@ -263,8 +263,8 @@ Fluent Migrations framework for .net.
 
 Task scheduler with fluent interface that runs automated tasks (cron jobs) from your application.
 
-[fluentscheduler-gh]:    https://github.com/jgeurts/FluentScheduler
-[fluentscheduler-nuget]: https://nuget.org/packages/FluentScheduler
+[fluentscheduler-gh]:    https://github.com/fluentscheduler/FluentScheduler
+[fluentscheduler-nuget]: https://www.nuget.org/packages/FluentScheduler
 
 ## FluentValidation
 
@@ -273,7 +273,7 @@ Task scheduler with fluent interface that runs automated tasks (cron jobs) from 
 A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules. 
 
 [fluentvalidation-gh]:    https://github.com/JeremySkinner/FluentValidation
-[fluentvalidation-nuget]: https://nuget.org/packages/FluentValidation
+[fluentvalidation-nuget]: https://www.nuget.org/packages/FluentValidation
 
 ## [Formo]
 
@@ -281,9 +281,9 @@ A small validation library for .NET that uses a fluent interface and lambda expr
 
 Formo allows you to use your configuration file as a dynamic object. Turn your web.config or application settings into a rich, dynamic object.
 
-[Formo]:       http://chrismissal.com/Formo   
+[Formo]:       http://chrismissal.com/Formo/   
 [formo-gh]:    https://github.com/ChrisMissal/Formo
-[formo-nuget]: https://nuget.org/packages/Formo
+[formo-nuget]: https://www.nuget.org/packages/Formo
 
 ## [FsCheck]
 
@@ -292,8 +292,8 @@ Formo allows you to use your configuration file as a dynamic object. Turn your w
  Random Testing for .NET.
 
 [FsCheck]:       https://fsharp.github.io/FsCheck
-[fscheck-gh]:    https://github.com/fsharp/FsCheck
-[fscheck-nuget]: https://nuget.org/packages/FsCheck
+[fscheck-gh]:    https://github.com/fscheck/FsCheck
+[fscheck-nuget]: https://www.nuget.org/packages/FsCheck
 
 ## [Glimpse]
 
@@ -303,7 +303,7 @@ The open source diagnostics platform for the web.
 
 [Glimpse]:       http://getglimpse.com
 [glimpse-gh]:    https://github.com/Glimpse/Glimpse
-[glimpse-nuget]: https://nuget.org/packages/Glimpse/
+[glimpse-nuget]: https://www.nuget.org/packages/Glimpse/
 
 ## [Hangfire]
 
@@ -313,7 +313,7 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 
 [Hangfire]:       http://hangfire.io
 [hangfire-gh]:    https://github.com/HangfireIO/Hangfire
-[hangfire-nuget]: https://nuget.org/packages/HangFire
+[hangfire-nuget]: https://www.nuget.org/packages/HangFire
 
 ## HtmlAgilityPack
 
@@ -322,7 +322,7 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications.
 
 [htmlagilitypack-gh]:    https://htmlagilitypack.codeplex.com
-[htmlagilitypack-nuget]: https://nuget.org/packages/HtmlAgilityPack
+[htmlagilitypack-nuget]: https://www.nuget.org/packages/HtmlAgilityPack
 
 ## Humanizer
 
@@ -330,8 +330,8 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 
 Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
-[humanizer-gh]:    https://github.com/MehdiK/Humanizer
-[humanizer-nuget]: https://nuget.org/packages/Humanizer
+[humanizer-gh]:    https://github.com/Humanizr/Humanizer
+[humanizer-nuget]: https://www.nuget.org/packages/Humanizer
 
 ## Hyperletter
 
@@ -340,7 +340,7 @@ Humanizer meets all your .NET needs for manipulating and displaying strings, enu
 Hyperletter helps you distribute your system, like a mix of WCF and ZeroMQ.
 
 [hyperletter-gh]:    https://github.com/Jiddler/Hyperletter
-[hyperletter-nuget]: https://nuget.org/packages/Hyperletter
+[hyperletter-nuget]: https://www.nuget.org/packages/Hyperletter
 
 ## [ImageResizer]
 
@@ -350,7 +350,7 @@ The official repository for ImageResizer.
 
 [ImageResizer]:       http://imageresizing.net
 [imageresizer-gh]:    https://github.com/imazen/resizer
-[imageresizer-nuget]: https://nuget.org/packages/ImageResizer
+[imageresizer-nuget]: https://www.nuget.org/packages/ImageResizer
 
 ## Jil
 
@@ -359,7 +359,7 @@ The official repository for ImageResizer.
 Fast .NET JSON (De)Serializer, Built On Sigil.
 
 [jil-gh]:    https://github.com/kevin-montrose/Jil
-[jil-nuget]: https://nuget.org/packages/Jil
+[jil-nuget]: https://www.nuget.org/packages/Jil
 
 ## [Json.NET]
 
@@ -367,9 +367,9 @@ Fast .NET JSON (De)Serializer, Built On Sigil.
 
 Json.NET is a popular high-performance JSON framework for .NET.
 
-[Json.NET]:      http://newtonsoft.com/json
+[Json.NET]:      http://www.newtonsoft.com/json
 [jsonnet-gh]:    https://github.com/JamesNK/Newtonsoft.Json
-[jsonnet-nuget]: https://nuget.org/packages/Newtonsoft.Json
+[jsonnet-nuget]: https://www.nuget.org/packages/Newtonsoft.Json
 
 ## Insight.Database
 
@@ -378,7 +378,7 @@ Json.NET is a popular high-performance JSON framework for .NET.
 Fast, lightweight .NET micro-ORM.
 
 [insightdatabase-gh]:    https://github.com/jonwagner/Insight.Database
-[insightdatabase-nuget]: https://nuget.org/packages/Insight.Database
+[insightdatabase-nuget]: https://www.nuget.org/packages/Insight.Database
 
 ## libsodium
 
@@ -387,7 +387,7 @@ Fast, lightweight .NET micro-ORM.
 A secure cryptographic library.
 
 [libsodium-gh]:    https://github.com/adamcaudill/libsodium-net
-[libsodium-nuget]: https://nuget.org/packages/libsodium-net
+[libsodium-nuget]: https://www.nuget.org/packages/libsodium-net
 
 ## LINQ to DB
 
@@ -396,7 +396,7 @@ A secure cryptographic library.
 Linq to database provider.
 
 [linqtodb-gh]:    https://github.com/linq2db/linq2db
-[linqtodb-nuget]: https://nuget.org/packages/linq2db
+[linqtodb-nuget]: https://www.nuget.org/packages/linq2db
 
 ## [Logary]
 
@@ -406,7 +406,7 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 
 [Logary]:       http://logary.github.io
 [logary-gh]:    https://github.com/logary/logary
-[logary-nuget]: https://nuget.org/packages/Logary
+[logary-nuget]: https://www.nuget.org/packages/Logary
 
 ## MailKit
 
@@ -415,7 +415,7 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 A cross-platform .NET library for IMAP, POP3, and SMTP.
 
 [mailkit-gh]:    https://github.com/jstedfast/MailKit
-[mailkit-nuget]: https://nuget.org/packages/MailKit
+[mailkit-nuget]: https://www.nuget.org/packages/MailKit
 
 ## [MimeKit]
 
@@ -423,9 +423,9 @@ A cross-platform .NET library for IMAP, POP3, and SMTP.
 
 A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 
-[MimeKit]:       http://mimekit.net
+[MimeKit]:       http://www.mimekit.net/
 [mimekit-gh]:    https://github.com/jstedfast/MimeKit
-[mimekit-nuget]: https://nuget.org/packages/MimeKit
+[mimekit-nuget]: https://www.nuget.org/packages/MimeKit
 
 ## [Nancy]
 
@@ -435,7 +435,7 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 
 [Nancy]:       http://nancyfx.org
 [nancy-gh]:    https://github.com/NancyFx/Nancy
-[nancy-nuget]: https://nuget.org/packages/Nancy
+[nancy-nuget]: https://www.nuget.org/packages/Nancy
 
 ## [NFluent]
 
@@ -445,7 +445,7 @@ NFluent is an ergonomic assertion library which aims to fluent your .NET TDD exp
 
 [NFluent]:       http://n-fluent.net
 [nfluent-gh]:    https://github.com/tpierrain/NFluent
-[nfluent-nuget]: https://nuget.org/packages/NFluent
+[nfluent-nuget]: https://www.nuget.org/packages/NFluent
 
 ## [NLog]
 
@@ -455,7 +455,7 @@ Advanced .NET and Silverlight Logging.
 
 [NLog]:       http://nlog-project.org
 [nlog-gh]:    https://github.com/NLog/NLog
-[nlog-nuget]: https://nuget.org/packages/NLog
+[nlog-nuget]: https://www.nuget.org/packages/NLog
 
 ## [NSubstitute]
 
@@ -465,7 +465,7 @@ A friendly substitute for .NET mocking frameworks.
 
 [NSubstitute]:       http://nsubstitute.github.io
 [nsubstitute-gh]:    https://github.com/nsubstitute/NSubstitute
-[nsubstitute-nuget]: https://nuget.org/packages/NSubstitute
+[nsubstitute-nuget]: https://www.nuget.org/packages/NSubstitute
 
 ## [OpaqueMail]
 
@@ -473,9 +473,9 @@ A friendly substitute for .NET mocking frameworks.
 
 .NET e-mail library and proxy supporting IMAP, POP3, and SMTP with S/MIME.
 
-[OpaqueMail]:       http://opaquemail.org
+[OpaqueMail]:       https://github.com/bertjohnson/OpaqueMail
 [opaquemail-gh]:    https://github.com/bertjohnson/OpaqueMail
-[opaquemail-nuget]: https://nuget.org/packages/OpaqueMail
+[opaquemail-nuget]: https://www.nuget.org/packages/OpaqueMail
 
 ## Polly
 
@@ -483,8 +483,8 @@ A friendly substitute for .NET mocking frameworks.
 
 Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 
-[polly-gh]:    https://github.com/michael-wolfenden/Polly
-[polly-nuget]: https://nuget.org/packages/polly
+[polly-gh]:    https://github.com/App-vNext/Polly
+[polly-nuget]: https://www.nuget.org/packages/polly
 
 ## [Postal]
 
@@ -492,9 +492,9 @@ Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express 
 
 Email sending for asp.net mvc using the view engine system to render emails.
 
-[Postal]:       http://aboutcode.net/postal
+[Postal]:       http://aboutcode.net/postal/
 [postal-gh]:    https://github.com/andrewdavey/postal
-[postal-nuget]: https://nuget.org/packages/Postal.Mvc5
+[postal-nuget]: https://www.nuget.org/packages/Postal.Mvc5
 
 ## [Quartz.NET]
 
@@ -502,9 +502,9 @@ Email sending for asp.net mvc using the view engine system to render emails.
 
 A full-featured, open source job scheduling system that can be used from smallest apps to large scale enterprise systems.
 
-[Quartz.NET]:      http://quartz-scheduler.net
+[Quartz.NET]:      http://www.quartz-scheduler.net/
 [quartznet-gh]:    https://github.com/quartznet/quartznet
-[quartznet-nuget]: https://nuget.org/packages/Quartz
+[quartznet-nuget]: https://www.nuget.org/packages/Quartz
 
 ## [Refit]
 
@@ -514,7 +514,7 @@ The automatic type-safe REST library for Xamarin and .NET.
 
 [Refit]:       http://paulcbetts.github.io/refit
 [refit-gh]:    https://github.com/paulcbetts/refit
-[refit-nuget]: https://nuget.org/packages/refit
+[refit-nuget]: https://www.nuget.org/packages/refit
 
 ## Regextra
 
@@ -523,7 +523,7 @@ The automatic type-safe REST library for Xamarin and .NET.
 Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}.
 
 [regextra-gh]:    https://github.com/amageed/Regextra
-[regextra-nuget]: https://nuget.org/packages/Regextra
+[regextra-nuget]: https://www.nuget.org/packages/Regextra
 
 ## [Restful Routing]
 
@@ -533,7 +533,7 @@ A rails inspired restful routing api for asp .net mvc.
 
 [Restful Routing]:      http://restfulrouting.com
 [restfulrouting-gh]:    https://github.com/stevehodgkiss/restful-routing
-[restfulrouting-nuget]: https://nuget.org/packages/RestfulRouting
+[restfulrouting-nuget]: https://www.nuget.org/packages/RestfulRouting
 
 ## [RestSharp]
 
@@ -543,7 +543,7 @@ Simple REST and HTTP API Client for .NET.
 
 [RestSharp]:       http://restsharp.org
 [restsharp-gh]:    https://github.com/restsharp/RestSharp
-[restsharp-nuget]: https://nuget.org/packages/RestSharp
+[restsharp-nuget]: https://www.nuget.org/packages/RestSharp
 
 ## [Serilog]
 
@@ -553,7 +553,7 @@ Simple .NET logging with fully-structured events.
 
 [Serilog]:       http://serilog.net
 [serilog-gh]:    https://github.com/serilog/serilog
-[serilog-nuget]: https://nuget.org/packages/Common.Logging.Serilog
+[serilog-nuget]: https://www.nuget.org/packages/Common.Logging.Serilog
 
 ## [ServiceStack]
 
@@ -563,7 +563,7 @@ Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for 
 
 [ServiceStack]:       https://servicestack.net
 [servicestack-gh]:    https://github.com/ServiceStack/ServiceStack
-[servicestack-nuget]: https://nuget.org/packages/ServiceStack
+[servicestack-nuget]: https://www.nuget.org/packages/ServiceStack
 
 ## [Shouldly]
 
@@ -573,7 +573,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 
 [Shouldly]:       http://docs.shouldly-lib.net
 [shouldly-gh]:    https://github.com/shouldly/shouldly
-[shouldly-nuget]: https://nuget.org/packages/Shouldly
+[shouldly-nuget]: https://www.nuget.org/packages/Shouldly
 
 ## Simple.Data
 
@@ -582,7 +582,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 A light-weight, dynamic data access component for C# 4.0.
 
 [simpledata-gh]:    https://github.com/markrendle/Simple.Data
-[simpledata-nuget]: https://nuget.org/packages/Simple.Data.Core
+[simpledata-nuget]: https://www.nuget.org/packages/Simple.Data.Core
 
 ## T4MVC
 
@@ -591,7 +591,7 @@ A light-weight, dynamic data access component for C# 4.0.
 T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers that eliminate the use of literal strings in many places.
 
 [t4mvc-gh]:    https://github.com/T4MVC/T4MVC
-[t4mvc-nuget]: https://nuget.org/packages/T4MVC
+[t4mvc-nuget]: https://www.nuget.org/packages/T4MVC
 
 ## [TinyMapper]
 
@@ -601,7 +601,7 @@ A quick object-object mapper for .NET.
 
 [TinyMapper]:       http://tinymapper.net
 [tinymapper-gh]:    https://github.com/TinyMapper/TinyMapper
-[tinymapper-nuget]: https://nuget.org/packages/TinyMapper
+[tinymapper-nuget]: https://www.nuget.org/packages/TinyMapper
 
 ## [SpecsFor]
 
@@ -611,7 +611,7 @@ SpecsFor is a light-weight Behavior-Driven Development framework that focuses on
 
 [SpecsFor]:       http://specsfor.com
 [specsfor-gh]:    https://github.com/MattHoneycutt/SpecsFor
-[specsfor-nuget]: https://nuget.org/packages/SpecsFor
+[specsfor-nuget]: https://www.nuget.org/packages/SpecsFor
 
 ## [StructureMap]
 
@@ -621,7 +621,7 @@ A Dependency Injection/Inversion of Control tool for .NET.
 
 [StructureMap]:       http://structuremap.github.io
 [structuremap-gh]:    https://github.com/structuremap/structuremap
-[structuremap-nuget]: https://nuget.org/packages/structuremap
+[structuremap-nuget]: https://www.nuget.org/packages/structuremap
 
 ## [Suave]
 
@@ -629,9 +629,9 @@ A Dependency Injection/Inversion of Control tool for .NET.
 
 Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 
-[Suave]:       http://suave.io
+[Suave]:       https://suave.io/
 [suave-gh]:    https://github.com/SuaveIO/suave
-[suave-nuget]: https://nuget.org/packages/Suave
+[suave-nuget]: https://www.nuget.org/packages/Suave
 
 ## [Topshelf]
 
@@ -641,7 +641,7 @@ An easy service hosting framework for building Windows services using .NET.
 
 [Topshelf]:       http://topshelf-project.com 
 [topshelf-gh]:    https://github.com/Topshelf/Topshelf
-[topshelf-nuget]: https://nuget.org/packages/Topshelf
+[topshelf-nuget]: https://www.nuget.org/packages/Topshelf
 
 ## TuesPechkin
 
@@ -650,7 +650,7 @@ An easy service hosting framework for building Windows services using .NET.
 A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 
 [tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
-[tuespechkin-nuget]: https://nuget.org/packages/TuesPechkin
+[tuespechkin-nuget]: https://www.nuget.org/packages/TuesPechkin
 
 ## Units.NET
 
@@ -658,8 +658,8 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 
 Makes life working with units of measurement just a little bit better.
 
-[unitsnet-gh]:    https://github.com/InitialForce/UnitsNet
-[unitsnet-nuget]: https://nuget.org/packages/UnitsNet
+[unitsnet-gh]:    https://github.com/anjdreas/UnitsNet
+[unitsnet-nuget]: https://www.nuget.org/packages/UnitsNet
 
 ## [Serenity]
 
@@ -669,4 +669,4 @@ Serenity is a Javascript / .NET application platform which has been built on ope
 
 [Serenity]:       https://volkanceylan.gitbooks.io/serenity-guide/content
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
-[serenity-nuget]: https://nuget.org/profiles/volkanceylan
+[serenity-nuget]: https://www.nuget.org/profiles/volkanceylan
