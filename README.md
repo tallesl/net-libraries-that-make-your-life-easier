@@ -22,6 +22,7 @@ Ah, and make sure to also check these other great lists:
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
+* [ChameleonForms](#chameleonforms)
 * [CsQuery](#csquery)
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
@@ -34,7 +35,7 @@ Ah, and make sure to also check these other great lists:
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
 * [Fixie](#fixie)
-* [FluentAssertions](#fluentassertions)
+* [FluentAssertions](#fluent-assertions)
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
 * [FluentValidation](#fluentvalidation)
@@ -127,6 +128,15 @@ A .Net port of jBCrypt implemented in C#.
 
 [bcryptnet-gh]:    http://bcrypt.codeplex.com
 [bcryptnet-nuget]: https://www.nuget.org/packages/BCrypt-Official
+
+## ChameleonForms
+
+<sup>[GitHub][chameleonforms-gh]</sup> <sup>[NuGet][chameleonforms-nuget]</sup>
+
+This library will shape-shift your forms experience in ASP.NET MVC.
+
+[chameleonforms-gh]:    https://github.com/MRCollective/ChameleonForms
+[chameleonforms-nuget]: https://www.nuget.org/packages/ChameleonForms
 
 ## CsQuery
 
