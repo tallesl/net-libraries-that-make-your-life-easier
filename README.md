@@ -319,7 +319,7 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 
 <sup><del>GitHub</del> [CodePlex][htmlagilitypack-gh]</sup> <sup>[NuGet][htmlagilitypack-nuget]</sup>
 
-Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications.
+An agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT allowing you to parse "out of the web" HTML files.
 
 [htmlagilitypack-gh]:    https://htmlagilitypack.codeplex.com
 [htmlagilitypack-nuget]: https://www.nuget.org/packages/HtmlAgilityPack
