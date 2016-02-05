@@ -250,7 +250,7 @@ Fluent Assertions is a set of .NET extension methods that allow you to more natu
 
 ## FluentMigrator
 
-<sup>[GitHub][fluentassertions-gh]</sup> <sup>[NuGet][fluentassertions-nuget]</sup>
+<sup>[GitHub][fluentmigrator-gh]</sup> <sup>[NuGet][fluentmigrator-nuget]</sup>
 
 Fluent Migrations framework for .net.
 
