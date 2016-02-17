@@ -39,6 +39,8 @@ Ah, and make sure to also check these other great lists:
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
 * [FluentValidation](#fluentvalidation)
+* [Flurl](#flurl)
+* [Flurl.Http](#flurlhttp)
 * [Formo](#formo)
 * [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
@@ -285,6 +287,26 @@ A small validation library for .NET that uses a fluent interface and lambda expr
 
 [fluentvalidation-gh]:    https://github.com/JeremySkinner/FluentValidation
 [fluentvalidation-nuget]: https://www.nuget.org/packages/FluentValidation
+
+## [Flurl]
+
+<sup>[GitHub][flurl-gh]</sup> <sup>[NuGet][flurl-nuget]</sup>
+
+A tiny, fluent, portable URL builder library.
+
+[Flurl]:       http://tmenier.github.io/Flurl/
+[flurl-gh]:    https://github.com/tmenier/Flurl
+[flurl-nuget]: https://www.nuget.org/packages/Flurl
+
+## [Flurl.Http]
+
+<sup>[GitHub][flurlhttp-gh]</sup> <sup>[NuGet][flurlhttp-nuget]</sup>
+
+A fluent, portable, testable REST/HTTP client library.
+
+[Flurl.Http]:      http://tmenier.github.io/Flurl/
+[flurlhttp-gh]:    https://github.com/tmenier/Flurl
+[flurlhttp-nuget]: https://www.nuget.org/packages/Flurl.Http
 
 ## [Formo]
 
