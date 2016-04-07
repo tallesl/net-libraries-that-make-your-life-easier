@@ -19,6 +19,7 @@ Ah, and make sure to also check these other great lists:
 
 * [Abot](#abot)
 * [Akka.NET](#akkanet)
+* [AngleSharp](#anglesharp)
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
@@ -100,6 +101,16 @@ Port of Akka actors for .NET.
 [Akka.NET]:      http://getakka.net
 [akkanet-gh]:    https://github.com/akkadotnet/akka.net
 [akkanet-nuget]: https://www.nuget.org/packages/Akka
+
+## [AngleSharp]
+
+<sup>[GitHub][anglesharp-gh]</sup> <sup>[NuGet][anglesharp-nuget]</sup>
+
+AngleSharp is the ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification.
+
+[AngleSharp]:       https://anglesharp.github.io
+[anglesharp-gh]:    https://github.com/AngleSharp/AngleSharp
+[anglesharp-nuget]: https://www.nuget.org/packages/AngleSharp
 
 ## [Autofac]
 
