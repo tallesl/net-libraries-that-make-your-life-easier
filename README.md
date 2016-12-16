@@ -24,6 +24,7 @@ Ah, and make sure to also check these other great lists:
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [ChameleonForms](#chameleonforms)
+* [CodeJam](#codejam)
 * [CsQuery](#csquery)
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
@@ -149,6 +150,15 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 
 [chameleonforms-gh]:    https://github.com/MRCollective/ChameleonForms
 [chameleonforms-nuget]: https://www.nuget.org/packages/ChameleonForms
+
+## CodeJam
+
+<sup>[GitHub][codejam-gh][/sup> <sup>[Nuget][codejam-nuget]</sup>
+
+Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another
+
+[codejam-gh]:    https://github.com/rsdn/CodeJam
+[codejam-nuget]: https://www.nuget.org/packages/CodeJam/
 
 ## CsQuery
 
