@@ -57,6 +57,7 @@ Ah, and make sure to also check these other great lists:
 * [LINQ to DB](#linq-to-db)
 * [LiteDB](#litedb)
 * [Logary](#logary)
+* [MahApps.Metro](#mahappsmetro)
 * [MailKit](#mailkit)
 * [MimeKit](#mimekit)
 * [Nancy](#nancy)
@@ -462,6 +463,16 @@ Logary is the best logging framework for .Net. It's a high performance, multi-ta
 [Logary]:       http://logary.github.io
 [logary-gh]:    https://github.com/logary/logary
 [logary-nuget]: https://www.nuget.org/packages/Logary
+
+## [MahApps.Metro]
+
+<sup>[GitHub][mahappsmetro-gh]</sup> <sup>[NuGet][mahappsmetro-nuget]</sup>
+
+ A toolkit for creating Metro / Modern UI styled WPF apps.
+
+[MahApps.Metro]:      http://mahapps.com
+[mahappsmetro-gh]:    https://github.com/MahApps/MahApps.Metro
+[mahappsmetro-nuget]: https://www.nuget.org/packages/MahApps.Metro
 
 ## MailKit
 
