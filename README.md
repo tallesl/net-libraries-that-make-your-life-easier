@@ -54,6 +54,7 @@ Ah, and make sure to also check these other great lists:
 * [Json.NET](#jsonnet)
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
+* [LiteDB](#litedb)
 * [Logary](#logary)
 * [MailKit](#mailkit)
 * [MimeKit](#mimekit)
@@ -430,6 +431,16 @@ Linq to database provider.
 
 [linqtodb-gh]:    https://github.com/linq2db/linq2db
 [linqtodb-nuget]: https://www.nuget.org/packages/linq2db
+
+## [LiteDB]
+
+<sup>[GitHub][litedb-gh]</sup> <sup>[NuGet][litedb-nuget]</sup>
+
+A .NET NoSQL Document Store in a single data file.
+
+[LiteDB]:       http://litedb.org
+[litedb-gh]:    https://github.com/mbdavid/LiteDB
+[litedb-nuget]: https://www.nuget.org/packages/LiteDB
 
 ## [Logary]
 
