@@ -23,6 +23,7 @@ Ah, and make sure to also check these other great lists:
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
+* [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [CsQuery](#csquery)
 * [CsvHelper](#csvhelper)
@@ -141,6 +142,16 @@ A .Net port of jBCrypt implemented in C#.
 
 [bcryptnet-gh]:    http://bcrypt.codeplex.com
 [bcryptnet-nuget]: https://www.nuget.org/packages/BCrypt-Official
+
+## [Caliburn.Micro]
+
+<sup>[GitHub][caliburnmicro-gh]</sup> <sup>[NuGet][caliburnmicro-nuget]</sup>
+
+A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+
+[Caliburn.Micro]:      http://caliburnmicro.com
+[caliburnmicro-gh]:    https://github.com/Caliburn-Micro/Caliburn.Micro
+[caliburnmicro-nuget]: https://www.nuget.org/packages/Caliburn.Micro
 
 ## ChameleonForms
 
