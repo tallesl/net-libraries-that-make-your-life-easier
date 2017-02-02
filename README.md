@@ -26,7 +26,6 @@ Ah, and make sure to also check these other great lists:
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [CodeJam](#codejam)
-* [CsQuery](#csquery)
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
@@ -172,15 +171,6 @@ Set of handy reusable .NET components that can simplify your daily work and save
 
 [codejam-gh]:    https://github.com/rsdn/CodeJam
 [codejam-nuget]: https://www.nuget.org/packages/CodeJam/
-
-## CsQuery
-
-<sup>[GitHub][csquery-gh]</sup> <sup>[NuGet][csquery-nuget]</sup>
-
-CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
-
-[csquery-gh]:    https://github.com/jamietre/CsQuery
-[csquery-nuget]: https://www.nuget.org/packages/CsQuery
 
 ## CsvHelper
 
