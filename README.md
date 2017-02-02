@@ -165,7 +165,7 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 
 ## CodeJam
 
-<sup>[GitHub][codejam-gh][/sup> <sup>[Nuget][codejam-nuget]</sup>
+<sup>[GitHub][codejam-gh]</sup> <sup>[Nuget][codejam-nuget]</sup>
 
 Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another
 
