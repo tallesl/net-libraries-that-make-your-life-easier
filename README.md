@@ -77,6 +77,7 @@ Ah, and make sure to also check these other great lists:
 * [Shouldly](#shouldly)
 * [Simple.Data](#simpledata)
 * [SpecsFor](#specsfor)
+* [StrangerData](#strangerdata)
 * [StructureMap](#structuremap)
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
@@ -678,6 +679,14 @@ SpecsFor is a light-weight Behavior-Driven Development framework that focuses on
 [SpecsFor]:       http://specsfor.com
 [specsfor-gh]:    https://github.com/MattHoneycutt/SpecsFor
 [specsfor-nuget]: https://www.nuget.org/packages/SpecsFor
+
+## [StrangerData]
+<sup>[GitHub][StrangerData-gh]</sup> <sup>[NuGet][StrangerData-nuget]</sup>
+
+StrangerData is a tool designed to automatically fills your database with random data to make your unit/integration tests faster.
+
+[StrangerData-gh]:    https://github.com/stone-pagamentos/StrangerData
+[StrangerData-nuget]: https://www.nuget.org/packages/StrangerData
 
 ## [StructureMap]
 
