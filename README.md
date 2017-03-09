@@ -84,6 +84,7 @@ Ah, and make sure to also check these other great lists:
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
 * [Units.NET](#unitsnet)
+* [Web Markup Minifier](#web-markup-minifier)
 * [Serenity](#serenity)
 
 ## Abot
@@ -726,6 +727,15 @@ Makes life working with units of measurement just a little bit better.
 
 [unitsnet-gh]:    https://github.com/anjdreas/UnitsNet
 [unitsnet-nuget]: https://www.nuget.org/packages/UnitsNet
+
+## Web Markup Minifier
+
+<sup>[GitHub][webmarkupmin-gh]</sup> <sup>[NuGet][webmarkupmin-nuget]</sup>
+
+A .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+
+[webmarkupmin-gh]:    https://github.com/Taritsyn/WebMarkupMin
+[webmarkupmin-nuget]: https://www.nuget.org/packages/WebMarkupMin.Core
 
 ## [Serenity]
 
