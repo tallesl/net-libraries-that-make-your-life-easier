@@ -86,6 +86,7 @@ Ah, and make sure to also check these other great lists:
 * [Units.NET](#unitsnet)
 * [Web Markup Minifier](#web-markup-minifier)
 * [Serenity](#serenity)
+* [YamlDotNet](#yamldotnet)
 
 ## Abot
 
@@ -746,3 +747,13 @@ Serenity is a Javascript / .NET application platform which has been built on ope
 [Serenity]:       https://volkanceylan.gitbooks.io/serenity-guide/content
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
 [serenity-nuget]: https://www.nuget.org/profiles/volkanceylan
+
+## [YamlDotNet]
+
+<sup>[GitHub][yamldotnet-gh]</sup> <sup>[NuGet][yamldotnet-nuget]</sup>
+
+YamlDotNet is a .NET library for YAML.
+
+[YamlDotNet]:       http://aaubry.net/pages/yamldotnet.html
+[yamldotnet-gh]:    https://github.com/aaubry/YamlDotNet
+[yamldotnet-nuget]: https://www.nuget.org/packages/YamlDotNet
