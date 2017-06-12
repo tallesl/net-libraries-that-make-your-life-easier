@@ -81,6 +81,7 @@ Ah, and make sure to also check these other great lists:
 * [Suave](#suave)
 * [T4MVC](#t4mvc)
 * [TinyMapper](#tinymapper)
+* [Tom's Toolbox](#toms-toolbox)
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
 * [Units.NET](#unitsnet)
@@ -710,6 +711,17 @@ An easy service hosting framework for building Windows services using .NET.
 [Topshelf]:       http://topshelf-project.com 
 [topshelf-gh]:    https://github.com/Topshelf/Topshelf
 [topshelf-nuget]: https://www.nuget.org/packages/Topshelf
+
+## [Tom's Toolbox]
+
+<sup>[GitHub][Tom's Toolbox-gh]</sup> <sup>[NuGet][Tom's Toolbox-nuget]</sup>
+
+A rich set of core functions and classes to ease every days .Net development tasks. 
+Contains many extension methods, a WPF composite MVVM framework, WPF controls, styles, triggers & behaviors etc...
+
+[Tom's Toolbox]:       http://tomstoolbox.azurewebsites.net 
+[Tom's Toolbox-gh]:    https://github.com/tom-englert/TomsToolbox
+[Tom's Toolbox-nuget]: https://www.nuget.org/packages?q=tomstoolbox
 
 ## TuesPechkin
 
