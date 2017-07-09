@@ -30,6 +30,7 @@ Ah, and make sure to also check these other great lists:
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
 * [DoddleReport](#doddlereport)
+* [DotVVM](#dotvvm)
 * [Dynamic Data](#dynamic-data)
 * [Effort](#effort)
 * [ELMAH](#elmah)
@@ -209,6 +210,16 @@ DoddleReport generates tabular reports from any IEnumerable datasource.
 
 [doddlereport-gh]:    http://doddlereport.codeplex.com
 [doddlereport-nuget]: https://www.nuget.org/packages/DoddleReport
+
+## DotVVM
+
+<sup>[GitHub][dotvvm-gh]</sup> <sup>[NuGet][dotvvm-nuget]</sup>
+
+MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017
+
+[DotVVM]:            https://dotvvm.com
+[dotvvm-gh]:         https://github.com/riganti/dotvvm
+[dotvvm-nuget]:      https://www.nuget.org/packages/DotVVM
 
 ## [Dynamic Data]
 
