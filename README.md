@@ -89,6 +89,7 @@ Ah, and make sure to also check these other great lists:
 * [Web Markup Minifier](#web-markup-minifier)
 * [Scientist.net](#scientistnet)
 * [Serenity](#serenity)
+* [StackExchange.Redis](#stackexchangeredis)
 * [SharpZipLib](#sharpziplib)
 * [YamlDotNet](#yamldotnet)
 
@@ -790,6 +791,15 @@ Serenity is a Javascript / .NET application platform which has been built on ope
 [SharpZipLib]:       http://icsharpcode.github.io/SharpZipLib/
 [sharpziplib-gh]:    https://github.com/icsharpcode/SharpZipLib
 [sharpziplib-nuget]: https://www.nuget.org/packages/SharpZipLib
+
+## StackExchange.Redis
+
+<sup>[GitHub][stackexchangeredis-gh]</sup> <sup>[NuGet][stackexchangeredis-nuget]</sup>
+
+StackExchange.Redis is a high performance general purpose redis client for .NET languages.
+
+[stackexchangeredis-gh]:    https://github.com/StackExchange/StackExchange.Redis
+[stackexchangeredis-nuget]: https://www.nuget.org/packages/StackExchange.Redis
 
 ## [YamlDotNet]
 
