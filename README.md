@@ -23,6 +23,7 @@ Ah, and make sure to also check these other great lists:
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
+* [BenchmarkDotNet](#benchmarkdotnet)
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [CodeJam](#codejam)
@@ -146,6 +147,16 @@ A .Net port of jBCrypt implemented in C#.
 
 [bcryptnet-gh]:    http://bcrypt.codeplex.com
 [bcryptnet-nuget]: https://www.nuget.org/packages/BCrypt-Official
+
+## [BenchmarkDotNet]
+
+<sup>[GitHub][benchmarkdotnet-gh]</sup> <sup>[NuGet][benchmarkdotnet-nuget]</sup>
+
+Powerful .NET library for benchmarking.
+
+[BenchmarkDotNet]:       http://benchmarkdotnet.org
+[benchmarkdotnet-gh]:    https://github.com/dotnet/BenchmarkDotNet
+[benchmarkdotnet-nuget]: https://www.nuget.org/packages/BenchmarkDotNet
 
 ## [Caliburn.Micro]
 
