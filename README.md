@@ -776,7 +776,7 @@ A .NET Port of the Scientist library for carefully refactoring critical paths.
 
 <sup>[GitHub][serenity-gh]</sup> <sup>[NuGet][serenity-nuget]</sup>
 
-Serenity is a Javascript / .NET application platform which has been built on open source technologies.
+Serenity is a Typescript / .NET application platform which has been built on open source technologies.
 
 [Serenity]:       https://volkanceylan.gitbooks.io/serenity-guide/content
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
