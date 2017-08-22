@@ -89,6 +89,7 @@ Ah, and make sure to also check these other great lists:
 * [Web Markup Minifier](#web-markup-minifier)
 * [Scientist.net](#scientistnet)
 * [Serenity](#serenity)
+* [SharpZipLib](#sharpziplib)
 * [YamlDotNet](#yamldotnet)
 
 ## Abot
@@ -779,6 +780,16 @@ Serenity is a Javascript / .NET application platform which has been built on ope
 [Serenity]:       https://volkanceylan.gitbooks.io/serenity-guide/content
 [serenity-gh]:    https://github.com/volkanceylan/Serenity
 [serenity-nuget]: https://www.nuget.org/profiles/volkanceylan
+
+## [SharpZipLib]
+
+<sup>[GitHub][sharpziplib-gh]</sup> <sup>[NuGet][sharpziplib-nuget]</sup>
+
+#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+
+[SharpZipLib]:       http://icsharpcode.github.io/SharpZipLib/
+[sharpziplib-gh]:    https://github.com/icsharpcode/SharpZipLib
+[sharpziplib-nuget]: https://www.nuget.org/packages/SharpZipLib
 
 ## [YamlDotNet]
 
