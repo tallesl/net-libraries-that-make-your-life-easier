@@ -87,6 +87,7 @@ Ah, and make sure to also check these other great lists:
 * [TuesPechkin](#tuespechkin)
 * [Units.NET](#unitsnet)
 * [Web Markup Minifier](#web-markup-minifier)
+* [Scientist.net](#scientistnet)
 * [Serenity](#serenity)
 * [YamlDotNet](#yamldotnet)
 
@@ -759,6 +760,15 @@ A .NET library that contains a set of markup minifiers. The objective of this pr
 
 [webmarkupmin-gh]:    https://github.com/Taritsyn/WebMarkupMin
 [webmarkupmin-nuget]: https://www.nuget.org/packages/WebMarkupMin.Core
+
+## Scientist.net
+
+<sup>[GitHub][scientistnet-gh]</sup> <sup>[NuGet][scientistnet-nuget]</sup>
+
+A .NET Port of the Scientist library for carefully refactoring critical paths.
+
+[scientistnet-gh]:    https://github.com/github/Scientist.net
+[scientistnet-nuget]: https://www.nuget.org/packages/Scientist
 
 ## [Serenity]
 
