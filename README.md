@@ -76,6 +76,7 @@ Ah, and make sure to also check these other great lists:
 * [RestSharp](#restsharp)
 * [Serilog](#serilog)
 * [ServiceStack](#servicestack)
+* [SharpNetSH](#sharpnetsh)
 * [Shouldly](#shouldly)
 * [Simple.Data](#simpledata)
 * [SpecsFor](#specsfor)
@@ -657,6 +658,15 @@ Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for 
 [ServiceStack]:       https://servicestack.net
 [servicestack-gh]:    https://github.com/ServiceStack/ServiceStack
 [servicestack-nuget]: https://www.nuget.org/packages/ServiceStack
+
+## SharpNetSH
+
+<sup>[GitHub][sharpnetsh-gh]</sup> <sup>[NuGet][sharpnetsh-nuget]</sup>
+
+A simple netsh library for C#.
+
+[sharpnetsh-gh]:    https://github.com/rpetz/SharpNetSH
+[sharpnetsh-nuget]: https://www.nuget.org/packages/SharpNetSH
 
 ## [Shouldly]
 
