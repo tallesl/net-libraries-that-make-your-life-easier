@@ -27,6 +27,7 @@ Ah, and make sure to also check these other great lists:
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [CodeJam](#codejam)
+* [CommonMark.NET](#commonmarknet)
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
@@ -190,7 +191,16 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another
 
 [codejam-gh]:    https://github.com/rsdn/CodeJam
-[codejam-nuget]: https://www.nuget.org/packages/CodeJam/
+[codejam-nuget]: https://www.nuget.org/packages/CodeJam
+
+## CommonMark.NET
+
+<sup>[GitHub][commonmarknet-gh]</sup> <sup>[Nuget][commonmarknet-nuget]</sup>
+
+Implementation of CommonMark specification in C# for converting Markdown documents to HTML.
+
+[commonmarknet-gh]:    https://github.com/Knagis/CommonMark.NET
+[commonmarknet-nuget]: https://www.nuget.org/packages/CommonMark.NET
 
 ## CsvHelper
 
