@@ -63,6 +63,7 @@ Ah, and make sure to also check these other great lists:
 * [MailKit](#mailkit)
 * [MimeKit](#mimekit)
 * [Nancy](#nancy)
+* [NAudio](#naudio)
 * [NFluent](#nfluent)
 * [NLog](#nlog)
 * [NSubstitute](#nsubstitute)
@@ -530,6 +531,15 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 [Nancy]:       http://nancyfx.org
 [nancy-gh]:    https://github.com/NancyFx/Nancy
 [nancy-nuget]: https://www.nuget.org/packages/Nancy
+
+## NAudio
+
+<sup>[GitHub][naudio-gh]</sup> <sup>[NuGet][naudio-nuget]</sup>
+
+Audio and MIDI library for .NET.
+
+[naudio-gh]:    https://github.com/NancyFx/Nancy
+[naudio-nuget]: https://www.nuget.org/packages/Nancy
 
 ## [NFluent]
 
