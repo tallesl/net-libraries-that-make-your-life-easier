@@ -91,8 +91,9 @@ Ah, and make sure to also check these other great lists:
 * [Web Markup Minifier](#web-markup-minifier)
 * [Scientist.net](#scientistnet)
 * [Serenity](#serenity)
-* [StackExchange.Redis](#stackexchangeredis)
 * [SharpZipLib](#sharpziplib)
+* [Sprache](#sprache)
+* [StackExchange.Redis](#stackexchangeredis)
 * [YamlDotNet](#yamldotnet)
 
 ## Abot
@@ -811,6 +812,15 @@ Serenity is a Typescript / .NET application platform which has been built on ope
 [SharpZipLib]:       http://icsharpcode.github.io/SharpZipLib/
 [sharpziplib-gh]:    https://github.com/icsharpcode/SharpZipLib
 [sharpziplib-nuget]: https://www.nuget.org/packages/SharpZipLib
+
+## Sprache
+
+<sup>[GitHub][sprache-gh]</sup> <sup>[NuGet][sprache-nuget]</sup>
+
+Sprache is a simple, lightweight library for constructing parsers directly in C# code.
+
+[sprache-gh]:    https://github.com/sprache/Sprache
+[sprache-nuget]: https://www.nuget.org/packages/Sprache
 
 ## StackExchange.Redis
 
