@@ -67,6 +67,7 @@ Ah, and make sure to also check these other great lists:
 * [NAudio](#naudio)
 * [NFluent](#nfluent)
 * [NLog](#nlog)
+* [NPOI](#npoi)
 * [NSubstitute](#nsubstitute)
 * [OpaqueMail](#opaquemail)
 * [Polly](#polly)
@@ -571,6 +572,15 @@ Advanced .NET and Silverlight Logging.
 [NLog]:       http://nlog-project.org
 [nlog-gh]:    https://github.com/NLog/NLog
 [nlog-nuget]: https://www.nuget.org/packages/NLog
+
+## NPOI
+
+<sup><del>GitHub</del> [CodePlex][npoi-gh]</sup> <sup>[NuGet][npoi-nuget]</sup>
+
+.NET version of POI Java project, an open source project which can help you read/write xls, doc, ppt files.
+
+[npoi-gh]:    https://npoi.codeplex.com
+[npoi-nuget]: https://www.nuget.org/packages/NPOI
 
 ## [NSubstitute]
 
