@@ -96,6 +96,8 @@ Ah, and make sure to also check these other great lists:
 * [SharpZipLib](#sharpziplib)
 * [Sprache](#sprache)
 * [StackExchange.Redis](#stackexchangeredis)
+* [SuperSocket](#supersocket)
+* [Websocket-sharp](#websocket-sharp)
 * [YamlDotNet](#yamldotnet)
 
 ## Abot
@@ -850,6 +852,25 @@ StackExchange.Redis is a high performance general purpose redis client for .NET 
 
 [stackexchangeredis-gh]:    https://github.com/StackExchange/StackExchange.Redis
 [stackexchangeredis-nuget]: https://www.nuget.org/packages/StackExchange.Redis
+
+## [SuperSocket]
+
+<sup>[GitHub][supersocket-gh]</sup> <sup>[NuGet][supersocket-nuget]</sup>
+
+SuperSocket is a light weight, cross platform and extensible socket server application framework.
+
+[SuperSocket]:       http://www.supersocket.net
+[supersocket-gh]:    https://github.com/kerryjiang/SuperSocket
+[supersocket-nuget]: https://www.nuget.org/packages/SuperSocket
+
+## Websocket-sharp
+
+<sup>[GitHub][websocketsharp-gh]</sup> <sup>[NuGet][websocketsharp-nuget]</sup>
+
+A C# implementation of the WebSocket protocol client and server.
+
+[websocketsharp-gh]:    https://github.com/sta/websocket-sharp
+[websocketsharp-nuget]: https://www.nuget.org/packages/WebSocketSharp
 
 ## [YamlDotNet]
 
