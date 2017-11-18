@@ -552,8 +552,8 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 
 Audio and MIDI library for .NET.
 
-[naudio-gh]:    https://github.com/NancyFx/Nancy
-[naudio-nuget]: https://www.nuget.org/packages/Nancy
+[naudio-gh]:    https://github.com/naudio/NAudio
+[naudio-nuget]: https://www.nuget.org/packages/NAudio
 
 ## [NFluent]
 
