@@ -40,6 +40,7 @@ Ah, and make sure to also check these other great lists:
 * [Fasterflect](#fasterflect)
 * [Fibber](#fibber)
 * [Fixie](#fixie)
+* [FlatFiles](#flatfiles)
 * [FluentAssertions](#fluent-assertions)
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
@@ -316,6 +317,15 @@ Conventional Testing for .NET.
 [Fixie]:       http://fixie.github.io
 [fixie-gh]:    https://github.com/fixie/fixie
 [fixie-nuget]: https://www.nuget.org/packages/Fixie
+
+## FlatFiles
+
+<sup>[GitHub][flatfiles-gh]</sup> <sup>[NuGet][flatfiles-nuget]</sup>
+
+Reads and writes CSV, fixed-length and other flat file formats with a focus on schema definition, configuration and speed.
+
+[flatfiles-gh]:    https://github.com/jehugaleahsa/FlatFiles
+[flatfiles-nuget]: https://www.nuget.org/packages/FlatFiles
 
 ## [Fluent Assertions]
 
