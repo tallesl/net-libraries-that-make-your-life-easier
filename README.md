@@ -63,6 +63,7 @@ Ah, and make sure to also check these other great lists:
 * [Logary](#logary)
 * [MahApps.Metro](#mahappsmetro)
 * [MailKit](#mailkit)
+* [MetadataExtractor](#metadataextractor)
 * [MimeKit](#mimekit)
 * [Nancy](#nancy)
 * [NAudio](#naudio)
@@ -535,6 +536,15 @@ A cross-platform .NET library for IMAP, POP3, and SMTP.
 
 [mailkit-gh]:    https://github.com/jstedfast/MailKit
 [mailkit-nuget]: https://www.nuget.org/packages/MailKit
+
+## MetadataExtractor
+
+<sup>[GitHub][metadataextractor-gh]</sup> <sup>[NuGet][metadataextractor-nuget]</sup>
+
+A cross-platform .NET library for extracting metadata (including Exif, IPTC, XMP, ICC) from image and video formats (including JPEG, PNG, GIF).
+
+[metadataextractor-gh]:    https://github.com/drewnoakes/metadata-extractor-dotnet
+[metadataextractor-nuget]: https://www.nuget.org/packages/MetadataExtractor
 
 ## [MimeKit]
 
