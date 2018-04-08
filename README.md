@@ -415,12 +415,13 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 [hangfire-gh]:    https://github.com/HangfireIO/Hangfire
 [hangfire-nuget]: https://www.nuget.org/packages/HangFire
 
-## HtmlAgilityPack
+## [HtmlAgilityPack]
 
 <sup>[GitHub][htmlagilitypack-gh]</sup> <sup>[NuGet][htmlagilitypack-nuget]</sup>
 
 An agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT allowing you to parse "out of the web" HTML files.
 
+[HtmlAgilityPack]:       http://html-agility-pack.net
 [htmlagilitypack-gh]:    https://github.com/zzzprojects/html-agility-pack
 [htmlagilitypack-nuget]: https://www.nuget.org/packages/HtmlAgilityPack
 
