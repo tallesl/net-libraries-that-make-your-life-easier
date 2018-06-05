@@ -236,11 +236,11 @@ A simple object mapper for .Net.
 
 ## DoddleReport
 
-<sup><del>GitHub</del> [CodePlex][doddlereport-gh]</sup> <sup>[NuGet][doddlereport-nuget]</sup>
+<sup>[GitHub][doddlereport-gh]</sup> <sup>[NuGet][doddlereport-nuget]</sup>
 
 DoddleReport generates tabular reports from any IEnumerable datasource.
 
-[doddlereport-gh]:    http://doddlereport.codeplex.com
+[doddlereport-gh]:    https://github.com/matthidinger/DoddleReport
 [doddlereport-nuget]: https://www.nuget.org/packages/DoddleReport
 
 ## [DotVVM]
