@@ -28,6 +28,7 @@ Ah, and make sure to also check these other great lists:
 * [ChameleonForms](#chameleonforms)
 * [CodeJam](#codejam)
 * [CommonMark.NET](#commonmarknet)
+* [CoordinateSharp](#coordinatesharp)
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
@@ -207,6 +208,16 @@ Implementation of CommonMark specification in C# for converting Markdown documen
 
 [commonmarknet-gh]:    https://github.com/Knagis/CommonMark.NET
 [commonmarknet-nuget]: https://www.nuget.org/packages/CommonMark.NET
+
+## [CoordinateSharp]
+
+<sup>[GitHub][coordinatesharp-gh]</sup> <sup>[Nuget][coordinatesharp-nuget]</sup>
+
+A library designed to ease geographic coordinate format conversions, and determine sun/moon information in C#
+
+[coordinatesharp]:       https://coordinatesharp.com
+[coordinatesharp-gh]:    https://github.com/Tronald/CoordinateSharp
+[coordinatesharp-nuget]: https://www.nuget.org/packages/CoordinateSharp
 
 ## CsvHelper
 
