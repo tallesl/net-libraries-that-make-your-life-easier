@@ -208,12 +208,13 @@ Implementation of CommonMark specification in C# for converting Markdown documen
 [commonmarknet-gh]:    https://github.com/Knagis/CommonMark.NET
 [commonmarknet-nuget]: https://www.nuget.org/packages/CommonMark.NET
 
-## CoordinateSharp
+## [CoordinateSharp]
 
 <sup>[GitHub][coordinatesharp-gh]</sup> <sup>[Nuget][coordinatesharp-nuget]</sup>
 
 A library that can handle geographic coordinate conversions and location based solar/lunar calculations.
 
+[coordinatesharp]:       https://coordinatesharp.com
 [coordinatesharp-gh]:    https://github.com/Tronald/CoordinateSharp
 [coordinatesharp-nuget]: https://www.nuget.org/packages/CoordinateSharp/
 
