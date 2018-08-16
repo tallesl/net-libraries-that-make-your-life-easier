@@ -41,6 +41,7 @@ Ah, and make sure to also check these other great lists:
 * [Fibber](#fibber)
 * [Fixie](#fixie)
 * [FlatFiles](#flatfiles)
+* [FlubuCore](#flubucore)
 * [FluentAssertions](#fluent-assertions)
 * [FluentMigrator](#fluentmigrator)
 * [FluentScheduler](#fluentscheduler)
@@ -327,6 +328,15 @@ Reads and writes CSV, fixed-length and other flat file formats with a focus on s
 
 [flatfiles-gh]:    https://github.com/jehugaleahsa/FlatFiles
 [flatfiles-nuget]: https://www.nuget.org/packages/FlatFiles
+
+## FlubuCore
+
+<sup>[GitHub][flubucore-gh]</sup> <sup>[NuGet][flubucore-nuget]</sup>
+
+A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+
+[flubucore-gh]:    https://github.com/flubu-core/flubu.core
+[flubucore-nuget]: https://www.nuget.org/packages/FlubuCore
 
 ## [Fluent Assertions]
 
