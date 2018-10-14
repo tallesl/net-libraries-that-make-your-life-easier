@@ -17,6 +17,7 @@ Ah, and make sure to also check these other great lists:
 
 # Open Source .NET libraries that make your life easier
 
+* [Cinchoo ETL](#cinchooetl)
 * [Abot](#abot)
 * [Akka.NET](#akkanet)
 * [AngleSharp](#anglesharp)
@@ -103,6 +104,25 @@ Ah, and make sure to also check these other great lists:
 * [SuperSocket](#supersocket)
 * [Websocket-sharp](#websocket-sharp)
 * [YamlDotNet](#yamldotnet)
+
+## Cinchoo ETL
+
+<sup>[GitHub][cinchooetl-gh]</sup> <sup>NuGet</sup> <sup>[.NET Framework][cinchooetl-nuget]</sup> <sup>/</sup> <sup>[.NET Core][cinchooetl-core-nuget]</sup>
+
+ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files)
+
+[cinchooetl-gh]:    https://github.com/Cinchoo/ChoETL
+[cinchooetl-nuget]: https://www.nuget.org/packages/ChoETL/
+[cinchooetl-core-nuget]: https://www.nuget.org/packages/ChoETL.NETStandard/
+
+#### JSON Plug-In
+<sup>NuGet</sup> <sup>[.NET Framework][cinchooetl-json-nuget]</sup> <sup>/</sup> <sup>[.NET Core][cinchooetl-core-json-nuget]</sup>
+
+JSON Plug-in for Cinchoo ETL to read and write JSON files
+
+[cinchooetl-json-nuget]: https://www.nuget.org/packages/ChoETL.JSON/
+[cinchooetl-core-json-nuget]: https://www.nuget.org/packages/ChoETL.JSON.NETStandard/
+
 
 ## Abot
 
