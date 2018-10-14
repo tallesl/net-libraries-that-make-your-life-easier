@@ -26,6 +26,7 @@ Ah, and make sure to also check these other great lists:
 * [BenchmarkDotNet](#benchmarkdotnet)
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
+* [Cinchoo ETL](#cinchoo-etl)
 * [CodeJam](#codejam)
 * [CommonMark.NET](#commonmarknet)
 * [CoordinateSharp](#coordinatesharp)
@@ -190,6 +191,15 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 
 [chameleonforms-gh]:    https://github.com/MRCollective/ChameleonForms
 [chameleonforms-nuget]: https://www.nuget.org/packages/ChameleonForms
+
+## Cinchoo ETL
+
+<sup>[GitHub][cinchooetl-gh]</sup> <sup>[NuGet][cinchooetl-nuget]</sup>
+
+ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
+
+[cinchooetl-gh]:    https://github.com/Cinchoo/ChoETL
+[cinchooetl-nuget]: https://www.nuget.org/packages/ChoETL
 
 ## CodeJam
 
