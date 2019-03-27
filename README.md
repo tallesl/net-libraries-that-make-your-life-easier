@@ -18,6 +18,7 @@ Ah, and make sure to also check these other great lists:
 # Open Source .NET libraries that make your life easier
 
 * [Abot](#abot)
+* [AdonisUI](#adonis-ui)
 * [Akka.NET](#akkanet)
 * [AngleSharp](#anglesharp)
 * [Autofac](#autofac)
@@ -113,6 +114,16 @@ C# web crawler built for speed and flexibility.
 
 [abot-gh]:    https://github.com/sjdirect/abot
 [abot-nuget]: https://www.nuget.org/packages/Abot
+
+## [AdonisUI]
+
+<sup>[GitHub][adonisui-gh]</sup> <sup>[NuGet][adonisui-nuget]</sup>
+
+Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+
+[AdonisUI]:       https://benruehl.github.io/adonis-ui
+[adonisui-gh]:    https://github.com/benruehl/adonis-ui
+[adonisui-nuget]: https://www.nuget.org/packages/AdonisUI.ClassicTheme
 
 ## [Akka.NET]
 
