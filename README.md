@@ -102,6 +102,7 @@ Ah, and make sure to also check these other great lists:
 * [SharpZipLib](#sharpziplib)
 * [Sprache](#sprache)
 * [StackExchange.Redis](#stackexchangeredis)
+* [Storage.Net](#storagenet)
 * [SuperSocket](#supersocket)
 * [Websocket-sharp](#websocket-sharp)
 * [YamlDotNet](#yamldotnet)
@@ -915,6 +916,15 @@ StackExchange.Redis is a high performance general purpose redis client for .NET 
 
 [stackexchangeredis-gh]:    https://github.com/StackExchange/StackExchange.Redis
 [stackexchangeredis-nuget]: https://www.nuget.org/packages/StackExchange.Redis
+
+## Storage.Net
+
+<sup>[GitHub][storagedotnet-gh]</sup> <sup>[NuGet][storagedotnet-nuget]</sup>
+
+Storage abstractions with implementations for .NET/.NET Standard.
+
+[storagedotnet-gh]:     https://github.com/aloneguid/storage
+[storagedotnet-nuget]:  https://www.nuget.org/packages/Storage.Net
 
 ## [SuperSocket]
 
