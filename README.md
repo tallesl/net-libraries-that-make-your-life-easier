@@ -104,6 +104,7 @@ Ah, and make sure to also check these other great lists:
 * [SuperSocket](#supersocket)
 * [Websocket-sharp](#websocket-sharp)
 * [YamlDotNet](#yamldotnet)
+* [Storage.Net](#storagenet)
 
 ## Abot
 
@@ -933,3 +934,13 @@ YamlDotNet is a .NET library for YAML.
 [YamlDotNet]:       http://aaubry.net/pages/yamldotnet.html
 [yamldotnet-gh]:    https://github.com/aaubry/YamlDotNet
 [yamldotnet-nuget]: https://www.nuget.org/packages/YamlDotNet
+
+## [Storage.Net]
+
+<sup>[GitHub][storagedotnet-gh]</sup> <sup>[NuGet][storagedotnet-nuget]</sup>
+
+Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
+
+[Storage.Net]:          https://github.com/aloneguid/storage
+[storagedotnet-gh]:     https://github.com/aloneguid/storage
+[storagedotnet-nuget]:  https://www.nuget.org/packages/Storage.Net/
