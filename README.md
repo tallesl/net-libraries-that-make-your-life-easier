@@ -95,6 +95,7 @@ Ah, and make sure to also check these other great lists:
 * [TinyMapper](#tinymapper)
 * [Topshelf](#topshelf)
 * [TuesPechkin](#tuespechkin)
+* [Unchase.FluentPerformanceMeter](#unchasefluentperformancemeter)
 * [Units.NET](#unitsnet)
 * [Web Markup Minifier](#web-markup-minifier)
 * [Scientist.net](#scientistnet)
@@ -851,6 +852,16 @@ A .NET wrapper for the wkhtmltopdf library with an object-oriented API.
 
 [tuespechkin-gh]:    https://github.com/tuespetre/TuesPechkin
 [tuespechkin-nuget]: https://www.nuget.org/packages/TuesPechkin
+
+## Unchase.FluentPerformanceMeter
+
+<sup>[GitHub][unchasefluentperformancemeter-gh]</sup> <sup>[NuGet][unchasefluentperformancemeter-nuget]</sup> <sup>[NuGet (AspNetCore.Mvc)][unchasefluentperformancemeter-mvc-nuget]</sup>
+
+An open-source and cross-platform .Net Standard 2.0 library that is designed for the method’s performance measurement.
+
+[unchasefluentperformancemeter-gh]:        https://github.com/unchase/Unchase.FluentPerformanceMeter
+[unchasefluentperformancemeter-nuget]:     https://www.nuget.org/packages/Unchase.FluentPerformanceMeter/
+[unchasefluentperformancemeter-mvc-nuget]: https://www.nuget.org/packages/Unchase.FluentPerformanceMeter.AspNetCore.Mvc/
 
 ## Units.NET
 
