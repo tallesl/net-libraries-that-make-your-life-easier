@@ -27,6 +27,7 @@ Ah, and make sure to also check these other great lists:
 * [BenchmarkDotNet](#benchmarkdotnet)
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
+* [Charming](#charming)
 * [Cinchoo ETL](#cinchoo-etl)
 * [CodeJam](#codejam)
 * [CommonMark.NET](#commonmarknet)
@@ -203,6 +204,15 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 
 [chameleonforms-gh]:    https://github.com/MRCollective/ChameleonForms
 [chameleonforms-nuget]: https://www.nuget.org/packages/ChameleonForms
+
+## Charming
+
+<sup>[GitHub][charming-gh]</sup> <sup>[NuGet][charming-nuget]</sup>
+
+A small, lightweight library that lets you generate ARM templates using C#.
+
+[charming-gh]:    https://github.com/tzkhan/Charming
+[charming-nuget]: https://www.nuget.org/packages/Charming
 
 ## Cinchoo ETL
 
