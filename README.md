@@ -28,6 +28,8 @@ Ah, and make sure to also check these other great lists:
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [Cinchoo ETL](#cinchoo-etl)
+* [Cinchoo PGP](#cinchoo-pgp)
+* [Cinchoo NACHA](#cinchoo-nacha)
 * [CodeJam](#codejam)
 * [CommonMark.NET](#commonmarknet)
 * [CoordinateSharp](#coordinatesharp)
@@ -211,7 +213,25 @@ This library will shape-shift your forms experience in ASP.NET MVC.
 ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
 
 [cinchooetl-gh]:    https://github.com/Cinchoo/ChoETL
-[cinchooetl-nuget]: https://www.nuget.org/packages/ChoETL
+[cinchooetl-nuget]: https://www.nuget.org/packages?q=choetl
+
+## Cinchoo PGP
+
+<sup>[GitHub][cinchoopgp-gh]</sup> <sup>[NuGet][cinchoopgp-nuget]</sup>
+
+PGP library for .NET / c#
+
+[cinchoopgp-gh]:    https://github.com/Cinchoo/ChoPGP
+[cinchoopgp-nuget]: https://www.nuget.org/packages?q=chopgp
+
+## Cinchoo NACHA
+
+<sup>[GitHub][cinchoonacha-gh]</sup> <sup>[NuGet][cinchoonacha-nuget]</sup>
+
+NACHA library for .NET / c#
+
+[cinchoonacha-gh]:    https://github.com/Cinchoo/ChoNACHA
+[cinchoonacha-nuget]: https://www.nuget.org/packages?q=chonacha
 
 ## CodeJam
 
