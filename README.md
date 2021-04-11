@@ -25,6 +25,7 @@ Ah, and make sure to also check these other great lists:
 * [AutoMapper](#automapper)
 * [BCrypt.Net](#bcryptnet)
 * [BenchmarkDotNet](#benchmarkdotnet)
+* [Bogus](#bogus)
 * [Caliburn.Micro](#caliburnmicro)
 * [ChameleonForms](#chameleonforms)
 * [Cinchoo ETL](#cinchoo-etl)
@@ -188,6 +189,15 @@ Powerful .NET library for benchmarking.
 [BenchmarkDotNet]:       http://benchmarkdotnet.org
 [benchmarkdotnet-gh]:    https://github.com/dotnet/BenchmarkDotNet
 [benchmarkdotnet-nuget]: https://www.nuget.org/packages/BenchmarkDotNet
+
+## Bogus
+
+<sup>[GitHub][bogus-gh]</sup> <sup>[NuGet][bogus-nuget]</sup>
+
+A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+
+[bogus-gh]:    https://github.com/bchavez/Bogus
+[bogus-nuget]: https://www.nuget.org/packages/Bogus
 
 ## [Caliburn.Micro]
 
