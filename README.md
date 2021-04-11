@@ -69,6 +69,7 @@ Ah, and make sure to also check these other great lists:
 * [MailKit](#mailkit)
 * [MetadataExtractor](#metadataextractor)
 * [MimeKit](#mimekit)
+* [MiniProfiler](#miniprofiler)
 * [Nancy](#nancy)
 * [NAudio](#naudio)
 * [NFluent](#nfluent)
@@ -599,6 +600,16 @@ A cross-platform .NET MIME creation and parser library with support for S/MIME, 
 [MimeKit]:       http://www.mimekit.net/
 [mimekit-gh]:    https://github.com/jstedfast/MimeKit
 [mimekit-nuget]: https://www.nuget.org/packages/MimeKit
+
+## [MiniProfiler]
+
+<sup>[GitHub][miniprofiler-gh]</sup> <sup>[NuGet][miniprofiler-nuget]</sup>
+
+A simple but effective mini-profiler for ASP.NET (and Core) websites
+
+[MiniProfiler]:       https://miniprofiler.com/dotnet
+[miniprofiler-gh]:    https://github.com/MiniProfiler/dotnet
+[miniprofiler-nuget]: https://www.nuget.org/packages/MiniProfiler
 
 ## [Nancy]
 
