@@ -54,6 +54,7 @@ Ah, and make sure to also check these other great lists:
 * [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
+* [Hashids](#hashids)
 * [HtmlAgilityPack](#htmlagilitypack)
 * [Humanizer](#humanizer)
 * [Hyperletter](#hyperletter)
@@ -459,6 +460,16 @@ Incredibly easy way to perform fire-and-forget, delayed and recurring tasks insi
 [Hangfire]:       http://hangfire.io
 [hangfire-gh]:    https://github.com/HangfireIO/Hangfire
 [hangfire-nuget]: https://www.nuget.org/packages/HangFire
+
+## [Hashids]
+
+<sup>[GitHub][hashids-gh]</sup> <sup>[NuGet][hashids-nuget]</sup>
+
+A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
+
+[Hashids]:       https://hashids.org/net
+[hashids-gh]:    https://github.com/ullmark/hashids.net
+[hashids-nuget]: https://www.nuget.org/packages/Hashids.net
 
 ## [HtmlAgilityPack]
 
