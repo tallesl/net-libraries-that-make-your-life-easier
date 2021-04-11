@@ -69,6 +69,7 @@ Ah, and make sure to also check these other great lists:
 * [Logary](#logary)
 * [MahApps.Metro](#mahappsmetro)
 * [MailKit](#mailkit)
+* [MediatR](#mediatr)
 * [MetadataExtractor](#metadataextractor)
 * [MimeKit](#mimekit)
 * [MiniProfiler](#miniprofiler)
@@ -602,6 +603,15 @@ A cross-platform .NET library for IMAP, POP3, and SMTP.
 
 [mailkit-gh]:    https://github.com/jstedfast/MailKit
 [mailkit-nuget]: https://www.nuget.org/packages/MailKit
+
+## MediatR
+
+<sup>[GitHub][mediatr-gh]</sup> <sup>[NuGet][mediatr-nuget]</sup>
+
+Simple, unambitious mediator implementation in .NET
+
+[mediatr-gh]:    https://github.com/jbogard/MediatR
+[mediatr-nuget]: https://www.nuget.org/packages/mediatr
 
 ## MetadataExtractor
 
