@@ -61,6 +61,7 @@ Ah, and make sure to also check these other great lists:
 * [Insight.Database](#insightdatabase)
 * [Jil](#jil)
 * [Json.NET](#jsonnet)
+* [Lazy Cache](#lazycache)
 * [libsodium](#libsodium)
 * [LINQ to DB](#linq-to-db)
 * [LiteDB](#litedb)
@@ -524,6 +525,15 @@ Fast, lightweight .NET micro-ORM.
 
 [insightdatabase-gh]:    https://github.com/jonwagner/Insight.Database
 [insightdatabase-nuget]: https://www.nuget.org/packages/Insight.Database
+
+## Lazy Cache
+
+<sup>[GitHub][lazycache-gh]</sup> <sup>[NuGet][lazycache-nuget]</sup>
+
+An easy to use thread safe in-memory caching service with a simple developer friendly API for C#
+
+[lazycache-gh]:    https://github.com/alastairtree/LazyCache
+[lazycache-nuget]: https://www.nuget.org/packages/LazyCache
 
 ## libsodium
 
