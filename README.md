@@ -72,6 +72,7 @@ Ah, and make sure to also check these other great lists:
 * [MailKit](#mailkit)
 * [MediatR](#mediatr)
 * [MetadataExtractor](#metadataextractor)
+* [MicroBootstrap](#microbootstrap)
 * [MimeKit](#mimekit)
 * [MiniProfiler](#miniprofiler)
 * [Nancy](#nancy)
@@ -631,6 +632,16 @@ A cross-platform .NET library for extracting metadata (including Exif, IPTC, XMP
 
 [metadataextractor-gh]:    https://github.com/drewnoakes/metadata-extractor-dotnet
 [metadataextractor-nuget]: https://www.nuget.org/packages/MetadataExtractor
+
+## MicroBootstrap
+
+<sup>[GitHub][microbootstrap-gh]</sup> <sup>[NuGet][microbootstrap-nuget]</sup>
+
+A framework with many features for quickly and conveniently creating microservices on .NET Core.
+
+[microbootstrap-gh]:    https://github.com/mehdihadeli/MicroBootstrap
+[microbootstrap-nuget]: https://www.nuget.org/packages/MicroBootstrap
+
 
 ## [MimeKit]
 
