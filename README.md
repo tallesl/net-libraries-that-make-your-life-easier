@@ -838,7 +838,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 [shouldly-gh]:    https://github.com/shouldly/shouldly
 [shouldly-nuget]: https://www.nuget.org/packages/Shouldly
 
-## [Sieve]
+## Sieve
 
 <sup>[GitHub][sieve-gh]</sup> <sup>[NuGet][sieve-nuget]</sup>
 
