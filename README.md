@@ -832,7 +832,7 @@ Should testing for .net - the way Asserting \*Should\* be!
 
 <sup>[GitHub][sieve-gh]</sup> <sup>[NuGet][sieve-nuget]</sup>
 
-Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
+Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.
 
 [sieve-gh]:    https://github.com/Biarity/Sieve
 [sieve-nuget]: https://www.nuget.org/packages/Sieve
