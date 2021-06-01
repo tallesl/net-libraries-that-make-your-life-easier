@@ -93,6 +93,7 @@ Ah, and make sure to also check these other great lists:
 * [ServiceStack](#servicestack)
 * [SharpNetSH](#sharpnetsh)
 * [Shouldly](#shouldly)
+* [Sieve](#sieve)
 * [Simple.Data](#simpledata)
 * [SpecsFor](#specsfor)
 * [StructureMap](#structuremap)
@@ -836,6 +837,15 @@ Should testing for .net - the way Asserting \*Should\* be!
 [Shouldly]:       http://docs.shouldly-lib.net
 [shouldly-gh]:    https://github.com/shouldly/shouldly
 [shouldly-nuget]: https://www.nuget.org/packages/Shouldly
+
+## [Sieve]
+
+<sup>[GitHub][sieve-gh]</sup> <sup>[NuGet][sieve-nuget]</sup>
+
+Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
+
+[sieve-gh]:    https://github.com/Biarity/Sieve
+[sieve-nuget]: https://www.nuget.org/packages/Sieve
 
 ## Simple.Data
 
