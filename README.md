@@ -23,6 +23,7 @@ Ah, and make sure to also check these other great lists:
 * [AngleSharp](#anglesharp)
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
+* [Barcodes](#barcodes)
 * [BCrypt.Net](#bcryptnet)
 * [BenchmarkDotNet](#benchmarkdotnet)
 * [Bogus](#bogus)
@@ -170,6 +171,16 @@ A convention-based object-object mapper in .NET.
 [AutoMapper]:       http://automapper.org
 [automapper-gh]:    https://github.com/AutoMapper/AutoMapper
 [automapper-nuget]: https://www.nuget.org/packages/AutoMapper
+
+## [Barcodes]
+
+<sup>[GitHub][barcodes-gh]</sup> <sup>[NuGet][barcodes-nuget]</sup>
+
+Cross-platform C# library for generation of different types of barcodes and QR codes.
+
+[Barcodes]:       https://docs.gehtsoftusa.com/pdfflow_barcodes/
+[barcodes-gh]:    https://github.com/gehtsoft-usa/Gehtsoft.Barcodes
+[barcodes-nuget]: https://www.nuget.org/packages/Gehtsoft.Barcodes/
 
 ## BCrypt.Net
 
