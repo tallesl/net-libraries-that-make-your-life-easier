@@ -392,7 +392,7 @@ A cross platform build and deployment automation system for building projects an
 Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 
 [Fluent Assertions]:      http://www.fluentassertions.com/
-[fluentassertions-gh]:    https://github.com/dennisdoomen/fluentassertions
+[fluentassertions-gh]:    https://github.com/fluentassertions/fluentassertions
 [fluentassertions-nuget]: https://www.nuget.org/packages/FluentAssertions
 
 ## FluentMigrator
