@@ -53,6 +53,7 @@ Ah, and make sure to also check these other great lists:
 * [Flurl](#flurl)
 * [Formo](#formo)
 * [FsCheck](#fscheck)
+* [Gigantor](#gigantor)
 * [Glimpse](#glimpse)
 * [Hangfire](#hangfire)
 * [Hashids](#hashids)
@@ -451,6 +452,15 @@ Formo allows you to use your configuration file as a dynamic object. Turn your w
 [FsCheck]:       https://fsharp.github.io/FsCheck
 [fscheck-gh]:    https://github.com/fscheck/FsCheck
 [fscheck-nuget]: https://www.nuget.org/packages/FsCheck
+
+## [Gigantor]
+
+<sup>[GitHub][gigantor-gh]</sup> <sup>[NuGet][gigantor-nuget]</sup>
+
+Boosts regular expression performance, and adds support for using gigantic files and streams
+
+[gigantor-gh]:    https://github.com/imagibee/Gigantor
+[gigantor-nuget]: https://www.nuget.org/packages/Imagibee.Gigantor
 
 ## [Glimpse]
 
