@@ -35,6 +35,7 @@ Ah, and make sure to also check these other great lists:
 * [CsvHelper](#csvhelper)
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
+* [DeviceDetector.NET](#devicedetectornet)
 * [DoddleReport](#doddlereport)
 * [DotVVM](#dotvvm)
 * [Dynamic Data](#dynamic-data)
@@ -281,6 +282,15 @@ A simple object mapper for .Net.
 
 [dapper-gh]:    https://github.com/StackExchange/dapper-dot-net
 [dapper-nuget]: https://www.nuget.org/packages/Dapper
+
+## DeviceDetector.NET
+
+<sup>[GitHub][devicedetectornet-gh]</sup> <sup>[NuGet][devicedetectornet-nuget]</sup>
+
+The Universal Device Detection library for .NET that parses User Agents and detects devices (desktop, tablet, mobile, tv, cars, console, etc.), clients (browsers, feed readers, media players, PIMs, ...), operating systems, brands and models. 
+
+[devicedetectornet-gh]:    https://github.com/totpero/DeviceDetector.NET
+[devicedetectornet-nuget]: https://www.nuget.org/packages/DeviceDetector.NET
 
 ## DoddleReport
 
