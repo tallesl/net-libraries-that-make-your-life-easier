@@ -36,6 +36,7 @@ Ah, and make sure to also check these other great lists:
 * [Cirqus](#cirqus)
 * [Dapper](#dapper)
 * [DeviceDetector.NET](#devicedetectornet)
+* [DeftSharp.Windows.Input](#deftsharpwindowsinput)
 * [DoddleReport](#doddlereport)
 * [DotVVM](#dotvvm)
 * [Dynamic Data](#dynamic-data)
@@ -292,6 +293,15 @@ The Universal Device Detection library for .NET that parses User Agents and dete
 
 [devicedetectornet-gh]:    https://github.com/totpero/DeviceDetector.NET
 [devicedetectornet-nuget]: https://www.nuget.org/packages/DeviceDetector.NET
+
+## DeftSharp.Windows.Input
+
+<sup>[GitHub][deftsharpinput-gh]</sup> <sup>[NuGet][deftsharpinput-nuget]</sup>
+
+A lightweight library designed to retrieve information about pressed keyboard keys and mouse buttons in WPF applications. Using P/Invoke methods, this library provides an easy-to-use interface for event handling.
+
+[deftsharpinput-gh]:    https://github.com/Empiree/DeftSharp.Windows.Input
+[deftsharpinput-nuget]: https://www.nuget.org/packages/DeftSharp.Windows.Input
 
 ## DoddleReport
 
